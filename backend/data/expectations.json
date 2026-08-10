@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-10T16:39:02.506Z",
+  "updatedAt": "2026-08-10T23:09:21.131Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine bir zam daha yolda",
-      "detail": "Birgün haberine göre, benzine yeni bir zam daha bekleniyor. Bu zamla birlikte pompa fiyatları değişecek.",
+      "headline": "Benzine bir zam daha geliyor",
+      "detail": "Pompa fiyatlarında değişiklik bekleniyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Güncel motorin haberi yok",
-      "detail": "Sağlanan metinde motorin fiyatlarına ilişkin güncel bir bilgi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorin fiyatları artışını sürdürüyor",
+      "detail": "Yunanistan enflasyon bültenine göre, gıda fiyatları yavaşlarken mazot ve ısıtma yağı fiyatlarındaki artış devam ediyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Güncel otogaz haberi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel bir bilgi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
