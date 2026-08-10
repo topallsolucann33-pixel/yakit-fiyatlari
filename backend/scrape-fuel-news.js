@@ -1,5 +1,5 @@
 /**
- * backend/scrape-fuel-news.js
+ * scrape-fuel-news.js
  *
  * Günde 3 kez (07:00 / 17:00 / 00:15 TR saati) GitHub Actions tarafından çalıştırılır.
  * - Belirlenen haber sitelerinden güncel akaryakıt haberlerini çeker
