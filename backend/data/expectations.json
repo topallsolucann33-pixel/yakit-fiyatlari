@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-08-10T10:16:43.653Z",
+  "expectations": {
+    "benzin": {
+      "type": "zam",
+      "amount": null,
+      "headline": "Benzine bir zam daha yolda: Pompa fiyatı değişecek",
+      "detail": "BirGün haberine göre, benzine yeni bir zam daha geliyor. Bu zamla birlikte pompa fiyatlarında değişiklik yaşanacak.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
+    },
+    "motorin": {
+      "type": "yok",
+      "amount": null,
+      "headline": null,
+      "detail": null,
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
+    },
+    "otogaz": {
+      "type": "yok",
+      "amount": null,
+      "headline": null,
+      "detail": null,
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
+    }
+  }
+}
