@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-12T08:47:46.217Z",
+  "updatedAt": "2026-08-12T17:33:33.409Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "Habertürk'e göre benzine zam yapıldığı belirtiliyor.",
+      "detail": "Habertürk'e göre benzine zam geldiği belirtilmiştir.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorinde ÖTV düzenlemesi",
-      "detail": "Motorinde Özel Tüketim Vergisi (ÖTV) ile ilgili bir düzenleme yapıldığı bildiriliyor.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Motorine ÖTV indirimi yolda",
+      "detail": "Son dakika haberine göre motorin (mazot) fiyatlarına ÖTV indirimi geleceği belirtiliyor. İndirimin miktarı henüz açıklanmadı.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": "Metinde otogaz ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogazda beklenen zam iptal edildi",
+      "detail": "Akaryakıt fiyatlarına gelmesi beklenen zam, son dakika gelişmesiyle iptal edildi. Otogaz pompa fiyatlarında değişiklik olmadı.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
