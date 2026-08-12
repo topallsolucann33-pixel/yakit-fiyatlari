@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-12T17:33:33.409Z",
+  "updatedAt": "2026-08-12T23:23:49.068Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geldi",
-      "detail": "Habertürk'e göre benzine zam geldiği belirtilmiştir.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Benzine art arda zam, Pazartesi yeni artış bekleniyor.",
+      "detail": "Dün gece 1,06 TL zam pompaya yansıdı. ABD-İran Savaşı belirsizliği nedeniyle Pazartesi günü yeni bir artış daha bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine ÖTV indirimi yolda",
-      "detail": "Son dakika haberine göre motorin (mazot) fiyatlarına ÖTV indirimi geleceği belirtiliyor. İndirimin miktarı henüz açıklanmadı.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine ÖTV indirimi iddiası",
+      "detail": "Yeni bir düzenleme iddiasına göre motorin fiyatlarına ÖTV indirimi gelebilir.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda beklenen zam iptal edildi",
-      "detail": "Akaryakıt fiyatlarına gelmesi beklenen zam, son dakika gelişmesiyle iptal edildi. Otogaz pompa fiyatlarında değişiklik olmadı.",
+      "headline": "Otogaz ile ilgili bilgi yok",
+      "detail": "Verilen metinlerde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
