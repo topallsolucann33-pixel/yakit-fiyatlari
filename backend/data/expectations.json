@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-11T23:24:32.604Z",
+  "updatedAt": "2026-08-12T08:47:46.217Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "Habertürk'ün manşet haberlerine göre benzine zam yapıldı.",
+      "detail": "Habertürk'e göre benzine zam yapıldığı belirtiliyor.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Mazot fiyatları artışını sürdürüyor",
-      "detail": "Yunanistan temmuz enflasyonu bültenine göre mazot fiyatları artışını sürdürüyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorinde ÖTV düzenlemesi",
+      "detail": "Motorinde Özel Tüketim Vergisi (ÖTV) ile ilgili bir düzenleme yapıldığı bildiriliyor.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel zam/indirim haberi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": null,
+      "detail": "Metinde otogaz ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
