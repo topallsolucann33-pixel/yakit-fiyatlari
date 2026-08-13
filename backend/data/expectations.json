@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-13T08:54:23.107Z",
+  "updatedAt": "2026-08-13T17:33:02.784Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine art arda zam; Pazartesi yeni artış bekleniyor",
-      "detail": "Dün gece pompaya 1,06 TL zam yansıdı, ABD-İran Savaşı belirsizliği nedeniyle Pazartesi yeni bir artış daha bekleniyor.",
+      "amount": "1,06 ₺",
+      "headline": "Benzine 1,06 TL zam geldi, yenisi yolda",
+      "detail": "ABD-İran Savaşı belirsizliği nedeniyle dün gece 1,06 TL zam pompaya yansıdı, Pazartesi yeni bir artış daha bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorine ÖTV indirimi iddiası",
-      "detail": "Akaryakıtta yeni bir düzenleme iddiasına göre motorin fiyatlarına ÖTV indirimi gelmesi bekleniyor.",
+      "headline": "Motorine kademeli ÖTV getirildi",
+      "detail": "Resmi Gazete'de yayımlanan kararla, enflasyonla mücadeleyi desteklemek amacıyla motorine kademeli özel tüketim vergisi (ÖTV) uygulanmaya başlandı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz için güncel haber yok",
-      "detail": "Metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
