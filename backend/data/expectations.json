@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-13T17:33:02.784Z",
+  "updatedAt": "2026-08-13T23:25:36.541Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "1,06 ₺",
-      "headline": "Benzine 1,06 TL zam geldi, yenisi yolda",
-      "detail": "ABD-İran Savaşı belirsizliği nedeniyle dün gece 1,06 TL zam pompaya yansıdı, Pazartesi yeni bir artış daha bekleniyor.",
+      "amount": null,
+      "headline": "Benzine art arda zam yolda",
+      "detail": "Dün gece pompaya yansıyan 1,06 TL'lik zammın ardından, ABD-İran Savaşı belirsizliği nedeniyle Pazartesi günü yeni bir artış daha bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine kademeli ÖTV getirildi",
-      "detail": "Resmi Gazete'de yayımlanan kararla, enflasyonla mücadeleyi desteklemek amacıyla motorine kademeli özel tüketim vergisi (ÖTV) uygulanmaya başlandı.",
+      "headline": "Motorine kademeli ÖTV zammı Resmi Gazete'de",
+      "detail": "Enflasyonla mücadeleyi desteklemek amacıyla motorine kademeli Özel Tüketim Vergisi (ÖTV) getirildiği Resmi Gazete'de yayımlandı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
