@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-13T23:25:36.541Z",
+  "updatedAt": "2026-08-14T08:42:30.662Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine art arda zam yolda",
-      "detail": "Dün gece pompaya yansıyan 1,06 TL'lik zammın ardından, ABD-İran Savaşı belirsizliği nedeniyle Pazartesi günü yeni bir artış daha bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Akaryakıta çifte zam geldi",
+      "detail": "Metinde akaryakıta çifte zam geldiği belirtilse de benzine özel bir miktar veya detay verilmemiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine kademeli ÖTV zammı Resmi Gazete'de",
-      "detail": "Enflasyonla mücadeleyi desteklemek amacıyla motorine kademeli Özel Tüketim Vergisi (ÖTV) getirildiği Resmi Gazete'de yayımlandı.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorinde ÖTV Ağustos için sıfırlandı",
+      "detail": "Bakan Şimşek'in açıklamasına göre, motorinde ÖTV Ağustos ayı için sıfırlandı, bu durum fiyatlara indirim olarak yansıyabilir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
       "headline": null,
-      "detail": null,
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "detail": "Metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
