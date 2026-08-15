@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-14T21:56:16.472Z",
+  "updatedAt": "2026-08-15T05:01:28.270Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Akaryakıta çifte zam geldi",
-      "detail": "Habertürk'e göre akaryakıt fiyatlarına çifte zam geldiği bildirildi, ancak benzin için zam miktarı belirtilmedi.",
+      "headline": "Akaryakıta çifte zam",
+      "detail": "Habertürk'e göre akaryakıt ürünlerine çifte zam yapıldı.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine çifte zam: Fiyat 80 lirayı aştı",
-      "detail": "Akaryakıtta yaşanan çifte zam ile motorin fiyatları 80 Türk Lirası seviyesini aşarak yükselişini sürdürdü.",
+      "detail": "14.08.2026 tarihinde akaryakıtta yaşanan çifte zamla motorin fiyatı 80 lirayı geçtiği belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel bilgi yok",
-      "detail": "Metinde otogaz fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
