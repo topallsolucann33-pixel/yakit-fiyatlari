@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-16T14:52:59.832Z",
+  "updatedAt": "2026-08-16T21:49:38.171Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine çifte zam",
-      "detail": "Akaryakıta genel olarak çifte zam geldiği belirtiliyor, bu durum benzini de kapsıyor.",
+      "headline": "Akaryakıta çifte zam geldi",
+      "detail": "Habertürk'e göre akaryakıt fiyatlarına çifte zam yapıldı, bu durum benzini de etkiledi.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine çifte zam",
-      "detail": "Akaryakıta genel olarak çifte zam geldiği belirtiliyor. Ayrıca motorin fiyatlarının benzinden daha hızlı yükseldiği sorusu gündemde.",
+      "headline": "Motorin fiyatlarına çifte zam; benzinden hızlı yükseliyor",
+      "detail": "Akaryakıta gelen çifte zam motorin fiyatlarını etkiledi. Metinde motorin fiyatlarının benzinden daha hızlı yükseldiği belirtiliyor.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel haber yok",
-      "detail": "Metinlerde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz ile ilgili güncel haber yok",
+      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
