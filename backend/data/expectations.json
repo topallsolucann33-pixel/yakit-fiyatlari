@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-17T14:57:29.369Z",
+  "updatedAt": "2026-08-17T21:58:32.956Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine son dakika zam: Fiyatlar yeniden değişti",
-      "detail": "Benzin fiyatlarına son dakika zammı geldi. ÖTV indirimi sonrası akaryakıt fiyatları 14 Ağustos 2026 itibarıyla yeniden güncellendi.",
+      "headline": "Benzine zam son dakika",
+      "detail": "14 Ağustos 2026 tarihinde benzine zam geldiği belirtiliyor. Güncel fiyatlar değişti.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine son dakika zam: ÖTV indirimi sonrası fiyatlar değişti",
-      "detail": "Motorin fiyatlarına son dakika zammı geldi. Daha önce Resmi Gazete'de yayımlanan ÖTV indirimi sonrası fiyatlar 14 Ağustos 2026 itibarıyla yeniden güncellendi.",
+      "headline": "Motorine ÖTV indirimi Resmi Gazete'de",
+      "detail": "Mazota yönelik ÖTV indirimi Resmi Gazete'de yayımlandı. Bu gelişme sonrası fiyatlar yeniden değişti.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel zam/indirim haberi yok",
-      "detail": "Sağlanan metinde otogaz fiyatlarına ilişkin güncel bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz fiyatlarında güncel bilgi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel zam veya indirim haberi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
