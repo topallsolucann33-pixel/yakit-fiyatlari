@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-18T15:16:28.965Z",
+  "updatedAt": "2026-08-18T21:54:34.035Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam geldi",
-      "detail": "4 gün önce benzine zam geldiği, ÖTV indirimi sonrası fiyatların yeniden değiştiği belirtildi. Güncel akaryakıt fiyatları 14 Ağustos 2026 tarihinde güncellendi.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "1,61 ₺",
+      "headline": "Benzine 1,61 TL zam geldi",
+      "detail": "14 Ağustos 2026 gece yarısından itibaren benzinin litre fiyatına 1,61 TL zam yapıldı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorine zam geldi",
-      "detail": "4 gün önce motorine zam geldiği, daha önce yayımlanan ÖTV indirimi sonrası fiyatların yeniden değiştiği belirtildi. Güncel akaryakıt fiyatları 14 Ağustos 2026 tarihinde güncellendi.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "8,89 ₺",
+      "headline": "Motorine 8,89 TL zam geldi",
+      "detail": "14 Ağustos 2026 gece yarısından itibaren motorinin litre fiyatına 8,89 TL zam yapıldı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel haber yok",
-      "detail": "Metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogazda güncel zam/indirim yok",
+      "detail": "Sağlanan metinlerde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
