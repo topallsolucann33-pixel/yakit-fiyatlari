@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-18T21:54:34.035Z",
+  "updatedAt": "2026-08-19T05:17:06.505Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "1,61 ₺",
-      "headline": "Benzine 1,61 TL zam geldi",
-      "detail": "14 Ağustos 2026 gece yarısından itibaren benzinin litre fiyatına 1,61 TL zam yapıldı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": null,
+      "headline": "Benzine zam son dakika! ÖTV indirimi sonrası fiyatlar değişti.",
+      "detail": "14 Ağustos 2026 tarihinde benzine zam geldiği belirtiliyor. ÖTV indirimi sonrası fiyatlar yeniden güncellendi.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
-      "amount": "8,89 ₺",
-      "headline": "Motorine 8,89 TL zam geldi",
-      "detail": "14 Ağustos 2026 gece yarısından itibaren motorinin litre fiyatına 8,89 TL zam yapıldı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": null,
+      "headline": "Motorine zam son dakika! ÖTV indirimi sonrası fiyatlar değişti.",
+      "detail": "14 Ağustos 2026 tarihinde motorine zam geldiği belirtiliyor. ÖTV indirimi sonrası fiyatlar yeniden güncellendi.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel zam/indirim yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogaz için güncel zam veya indirim haberi bulunmuyor.",
+      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi yer almamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
