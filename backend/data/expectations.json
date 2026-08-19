@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-19T05:17:06.505Z",
+  "updatedAt": "2026-08-19T15:16:41.909Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam son dakika! ÖTV indirimi sonrası fiyatlar değişti.",
-      "detail": "14 Ağustos 2026 tarihinde benzine zam geldiği belirtiliyor. ÖTV indirimi sonrası fiyatlar yeniden güncellendi.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "1,61 ₺",
+      "headline": "Benzine 1,61 TL zam geldi",
+      "detail": "14 Ağustos 2026 gece yarısından itibaren geçerli olmak üzere benzinin litre fiyatına 1,61 TL zam yapıldı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorine zam son dakika! ÖTV indirimi sonrası fiyatlar değişti.",
-      "detail": "14 Ağustos 2026 tarihinde motorine zam geldiği belirtiliyor. ÖTV indirimi sonrası fiyatlar yeniden güncellendi.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "8,89 ₺",
+      "headline": "Motorine 8,89 TL zam geldi",
+      "detail": "14 Ağustos 2026 gece yarısından itibaren geçerli olmak üzere motorinin litre fiyatına 8,89 TL zam yapıldı. Daha önce motorinde ÖTV sıfırlanmıştı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz için güncel zam veya indirim haberi bulunmuyor.",
-      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi yer almamaktadır.",
+      "headline": "Otogaz ile ilgili haber bulunamadı",
+      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir güncel zam veya indirim bilgisi yer almamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
