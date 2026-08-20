@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-20T15:50:39.887Z",
+  "updatedAt": "2026-08-20T22:00:39.414Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
-      "amount": "1,61 ₺",
-      "headline": "Benzine 1,61 TL zam geldi",
-      "detail": "14 Ağustos 2026 gece yarısından itibaren benzinin litre fiyatına 1,61 TL zam yapıldı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Bilgi Yok",
+      "detail": "Metinde benzin ile ilgili güncel zam veya indirim haberi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "zam",
-      "amount": "8,89 ₺",
-      "headline": "Motorine 8,89 TL zam geldi",
-      "detail": "14 Ağustos 2026 gece yarısından itibaren motorinin litre fiyatına 8,89 TL zam yapıldı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Bakan Şimşek'ten Açıklama",
+      "detail": "Metinde Bakan Şimşek'ten motorin ile ilgili bir açıklama olduğu belirtilmekle birlikte, bu açıklamanın zam veya indirimle ilgili olduğuna dair detay verilmemiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel bir haber bulunmamaktadır",
-      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili herhangi bir zam, indirim veya beklentiye dair bilgi yer almamaktadır.",
+      "headline": "Bilgi Yok",
+      "detail": "Metinde otogaz (LPG) ile ilgili güncel zam veya indirim haberi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
