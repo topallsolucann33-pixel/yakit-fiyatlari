@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-19T21:59:29.254Z",
+  "updatedAt": "2026-08-20T05:18:20.942Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "1,61 ₺",
+      "amount": "1,61 TL",
       "headline": "Benzine 1,61 TL zam geldi",
       "detail": "14 Ağustos 2026 gece yarısından itibaren benzinin litre fiyatına 1,61 TL zam yapıldı.",
       "source": "NationalTurk",
@@ -11,17 +11,17 @@
     },
     "motorin": {
       "type": "zam",
-      "amount": "8,89 ₺",
-      "headline": "Motorine 8,89 TL zam geldi",
-      "detail": "14 Ağustos 2026 gece yarısından itibaren motorinin litre fiyatına 8,89 TL zam yapıldı.",
+      "amount": "8,89 TL",
+      "headline": "Motorine 8,89 TL zam yapıldı",
+      "detail": "14 Ağustos 2026 gece yarısından itibaren motorinin litre fiyatına 8,89 TL zam geldi.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatları hakkında bilgi yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatları ile ilgili herhangi bir zam veya indirim bilgisi yer almamaktadır.",
+      "headline": "Otogaz (LPG) fiyatları hakkında bilgi bulunmuyor",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatları veya olası zam/indirimler hakkında herhangi bir bilgiye rastlanmamıştır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
