@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:58:10.197Z",
+  "updatedAt": "2026-08-22T05:04:42.153Z",
   "expectations": {
     "benzin": {
       "type": "zam",
@@ -12,18 +12,18 @@
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam haberi",
-      "detail": "22 Ağustos 2026 tarihinde motorine zam geldiği belirtilmektedir ancak zam miktarı metinde yer almamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine zam geliyor",
+      "detail": "BirGün Gazetesi'ne göre motorin fiyatlarına zam bekleniyor.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Güncel otogaz bilgisi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogaz fiyatlarında güncel bir gelişme yok",
+      "detail": "Sağlanan metinde otogaz fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
