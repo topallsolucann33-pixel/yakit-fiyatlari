@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-22T14:51:10.661Z",
+  "updatedAt": "2026-08-22T21:56:22.048Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "1,61 ₺",
-      "headline": "Benzine 1,61 TL zam geldi",
+      "headline": "Benzine 1,61 TL zam yapıldı",
       "detail": "14 Ağustos 2026 gece yarısından itibaren benzinin litre fiyatına 1,61 TL zam yapıldı.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam geliyor",
-      "detail": "Birgün haberine göre, motorin fiyatlarında bir zam beklentisi bulunmaktadır.",
+      "detail": "Birgün haberine göre, 21.08.2026 tarihli bilgiye göre motorine zam geleceği belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz için güncel zam/indirim haberi yok",
-      "detail": "Metinde otogazla ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
