@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-24T22:00:32.294Z",
+  "updatedAt": "2026-08-25T05:21:04.804Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine 24 Ağustos'ta zam bekleniyor",
-      "detail": "Bigpara'nın 14 saat önceki haberine göre, benzine 24 Ağustos 2026 tarihinde zam geleceği belirtiliyor. Zam miktarı henüz açıklanmadı.",
+      "headline": "Benzine zam geldiği belirtiliyor",
+      "detail": "25 Ağustos'ta akaryakıta genel bir zam geldiği belirtilirken, benzine gelen zammın miktarı metinde yer almıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -13,7 +13,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam geldi",
-      "detail": "Habertürk'ten alınan bilgiye göre motorin fiyatlarına zam yapıldı.",
+      "detail": "Habertürk'te yer alan bilgiye göre motorine zam yapıldı.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
