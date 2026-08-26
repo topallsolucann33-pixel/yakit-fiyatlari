@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-25T21:59:29.662Z",
+  "updatedAt": "2026-08-26T05:20:39.408Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "Motorine yapılan zammın ardından benzine de 25 Ağustos 2026 tarihinde zam geldiği duyuruldu.",
+      "detail": "Motorine yapılan zammın ardından benzine de zam geldiği haber metninde belirtilmiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam geldi",
-      "detail": "Benzine yapılan zammın öncesinde motorin fiyatlarında da bir artış yaşandığı belirtildi.",
+      "detail": "Benzine yapılan zammın öncesinde motorine zam geldiği bilgisi metinde yer almaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel haber yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
