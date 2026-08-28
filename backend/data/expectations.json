@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-26T16:39:27.005Z",
+  "updatedAt": "2026-08-28T04:26:42.098Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam geldi: Güncel fiyatlar araştırılıyor",
-      "detail": "25 Ağustos 2026 tarihinde akaryakıta zam geldiği belirtiliyor. Benzine ne kadar zam geldiği ve güncel fiyatların ne olduğu sorgulanıyor.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
-    },
-    "motorin": {
-      "type": "zam",
-      "amount": "8,89 ₺",
-      "headline": "Motorine 8,89 TL dev zam",
-      "detail": "14 Ağustos 2026 tarihinde motorinin litre fiyatına gece yarısından itibaren geçerli olmak üzere 8,89 TL zam yapıldı.",
+      "amount": "2.74 ₺",
+      "headline": "Benzine zam durmuyor: Son zam 2.74 TL",
+      "detail": "Brent petrolün yükselişinin ardından benzine son olarak 2.74 TL zam geldi. Litre fiyatı bir ayda 67 TL'den 74.26 TL'ye fırladı.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
+    },
+    "motorin": {
+      "type": "indirim",
+      "amount": null,
+      "headline": "Motorine indirim geldi",
+      "detail": "27 Ağustos 2026 tarihinde motorin fiyatlarında indirim gerçekleştiği belirtilmiştir.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz ile ilgili güncel haber yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir güncel zam veya indirim haberi yer almamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaz fiyatlarında güncel bir değişiklik yok",
+      "detail": "Verilen metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
