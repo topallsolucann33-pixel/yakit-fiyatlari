@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-29T14:05:37.998Z",
+  "updatedAt": "2026-08-29T21:17:23.905Z",
   "expectations": {
     "benzin": {
       "type": "yok",
       "amount": null,
-      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
-      "detail": "Habertürk'e göre akaryakıt tarifelerinde genel bir yeni düzenleme yapıldı. Metinde benzin için spesifik zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Benzin için güncel zam/indirim haberi yok",
+      "detail": "Metinde benzin fiyatlarına yönelik spesifik bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geldiği belirtildi",
-      "detail": "2 gün önce yayınlanan habere göre motorine indirim geldiği ifade ediliyor ancak indirimin miktarı belirtilmemiştir.",
+      "headline": "Motorine indirim haberi: Ne kadar indirim geldi?",
+      "detail": "27 Ağustos 2026 tarihinde motorine indirim geldiği belirtiliyor ancak indirimin miktarı ve güncel fiyatlar hakkında bilgi verilmiyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
-      "detail": "Habertürk'e göre akaryakıt tarifelerinde genel bir yeni düzenleme yapıldı. Metinde otogaz için spesifik zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz için güncel zam/indirim haberi yok",
+      "detail": "Metinde otogaz (LPG) fiyatlarına yönelik spesifik bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
