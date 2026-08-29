@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-28T21:51:16.881Z",
+  "updatedAt": "2026-08-29T04:01:35.859Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
-      "amount": "2.74 TL",
-      "headline": "Benzine zam durmuyor: Son olarak 2.74 TL artış",
-      "detail": "Brent petrolün yükselişinin ardından son olarak 2.74 TL zamlanan benzinin litre fiyatı bir ayda 67 TL'den 74.26 TL'ye fırladı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Benzin için güncel zam/indirim haberi yok",
+      "detail": "Metinde benzin için güncel bir zam veya indirim haberi bulunmamaktadır, sadece bir soru olarak geçmektedir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geldiği haberi",
-      "detail": "27 Ağustos 2026 tarihinde motorine indirim geldiği belirtilmekte, ancak indirimin miktarı metinde yer almamaktadır.",
+      "headline": "Motorine indirim haberi",
+      "detail": "Motorine indirim geldiği ve akaryakıt fiyatlarının gece yarısı değiştiği belirtiliyor, ancak indirimin miktarı hakkında bilgi verilmiyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel zam veya indirim yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz için güncel haber yok",
+      "detail": "Metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi yer almamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
