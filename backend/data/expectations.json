@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-30T14:03:03.897Z",
+  "updatedAt": "2026-08-30T21:16:29.916Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "2.74 ₺",
-      "headline": "Benzine zam durmuyor!",
-      "detail": "Brent petrolün yükselişinin ardından benzine son olarak 2.74 TL zam geldi. Litre fiyatı bir ayda 67 TL'den 74.26 TL'ye fırladı.",
+      "amount": "2.74 TL",
+      "headline": "Benzine zam durmuyor",
+      "detail": "Brent petrolün yükselişinin ardından son olarak 2.74 TL zamlanan benzinin litre fiyatı bir ayda 67 TL'den 74.26'ya fırladı.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim haberi 27 Ağustos 2026",
-      "detail": "3 gün önce yayınlanan habere göre motorine 27 Ağustos 2026 tarihinde indirim geldiği belirtiliyor ancak miktarı açıklanmamıştır.",
+      "headline": "Motorine indirim haberi geldi",
+      "detail": "3 gün önce 'MOTORİNE İNDİRİM HABERİ 27 AĞUSTOS 2026' başlığıyla bir indirim haberi belirtilmiştir. Ancak indirim miktarı metinde yer almamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel zam/indirim haberi yok",
-      "detail": "Sağlanan metinde otogaz fiyatlarına ilişkin belirli bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz için zam veya indirim haberi yok",
+      "detail": "Metinde otogaz fiyatlarına yönelik belirli bir zam veya indirim bilgisi yer almamaktadır. Akaryakıt tarifelerinde genel bir düzenlemeden bahsedilmektedir.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
