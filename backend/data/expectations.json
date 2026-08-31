@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-31T14:03:26.474Z",
+  "updatedAt": "2026-08-31T21:16:56.908Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "2.74 ₺",
-      "headline": "Benzine zam durmuyor",
-      "detail": "Brent petrolün yükselişiyle benzine son olarak 2.74 TL zam geldi. Litre fiyatı bir ayda 67 TL'den 74.26 TL'ye yükseldi.",
+      "amount": "2.74 TL",
+      "headline": "Benzine zam durmuyor: Litre fiyatı 74.26 TL'ye fırladı",
+      "detail": "Brent petrolün yükselişinin ardından benzine son olarak 2.74 TL zam geldi. Bir ayda litre fiyatı 67 TL'den 74.26 TL'ye yükseldi.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine ÖTV zammı geliyor",
-      "detail": "Motorine ÖTV zammı bekleniyor ve fiyatlar bu gece değişecek.",
+      "detail": "Motorine ÖTV zammı geleceği ve fiyatların bu gece değişeceği belirtiliyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel haber yok",
-      "detail": "Metinde otogaz fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": "Otogaz için güncel haber yok",
+      "detail": "Metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
