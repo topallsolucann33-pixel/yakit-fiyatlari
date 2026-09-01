@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-01T04:02:22.736Z",
+  "updatedAt": "2026-09-01T14:04:56.386Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
-      "amount": null,
-      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
-      "detail": "Metinde benzin özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "type": "zam",
+      "amount": "2.74 TL",
+      "headline": "Benzine zam durmuyor!",
+      "detail": "Brent petrolün yükselişinin ardından son olarak 2.74 TL zamlanan benzinin litre fiyatı bir ayda 67 TL'den 74.26 TL'ye fırladı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
-      "detail": "Metinde motorin özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "ÖTV yeniden devreye girdi: Motorin fiyatına zam geldi",
+      "detail": "Özel Tüketim Vergisi'nin (ÖTV) yeniden devreye girmesiyle motorin fiyatlarına zam yapıldı.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
-      "detail": "Metinde otogaz özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": null,
+      "detail": null,
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
