@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-31T21:16:56.908Z",
+  "updatedAt": "2026-09-01T04:02:22.736Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
-      "amount": "2.74 TL",
-      "headline": "Benzine zam durmuyor: Litre fiyatı 74.26 TL'ye fırladı",
-      "detail": "Brent petrolün yükselişinin ardından benzine son olarak 2.74 TL zam geldi. Bir ayda litre fiyatı 67 TL'den 74.26 TL'ye yükseldi.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
+      "detail": "Metinde benzin özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Motorine ÖTV zammı geliyor",
-      "detail": "Motorine ÖTV zammı geleceği ve fiyatların bu gece değişeceği belirtiliyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
+      "detail": "Metinde motorin özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz için güncel haber yok",
-      "detail": "Metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Akaryakıt tarifelerinde yeni düzenleme",
+      "detail": "Metinde otogaz özelinde bir zam veya indirim bilgisi bulunmamaktadır. Genel akaryakıt tarifelerinde yeni bir düzenleme olduğu belirtilmiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
