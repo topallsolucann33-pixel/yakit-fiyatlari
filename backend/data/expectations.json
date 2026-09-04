@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-04T04:01:37.874Z",
+  "updatedAt": "2026-09-04T14:04:52.971Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geliyor",
-      "detail": "8 saat önce yayınlanan habere göre benzine zam bekleniyor. Güncel akaryakıt fiyatları 3 Eylül 2026 tarihinde ele alınıyor.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine zam geldi",
+      "detail": "04.09.2026 tarihinde benzine zam yapıldığı belirtilmiştir.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geliyor",
-      "detail": "8 saat önce yayınlanan habere göre motorine (mazota) zam bekleniyor. Güncel akaryakıt fiyatları 3 Eylül 2026 tarihinde ele alınıyor.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine zam geldi",
+      "detail": "04.09.2026 tarihinde motorine zam yapıldığı belirtilmiştir.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "LPG'ye zam veya indirim haberi yok",
-      "detail": "Metinde LPG ile ilgili güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır, sadece bir soru olarak geçmektedir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogazda güncel zam/indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
