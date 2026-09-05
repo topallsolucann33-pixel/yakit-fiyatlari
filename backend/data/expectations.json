@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-04T21:21:47.471Z",
+  "updatedAt": "2026-09-05T04:03:20.279Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "Birgün haberine göre, 4 Eylül 2026 tarihinde benzin fiyatlarına zam yapıldı.",
+      "detail": "Birgün haberine göre, 04.09.2026 tarihinde benzine zam yapıldığı belirtilmiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -13,17 +13,17 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam geldi",
-      "detail": "Birgün haberine göre, 4 Eylül 2026 tarihinde motorin fiyatlarına zam yapıldı.",
+      "detail": "Birgün haberine göre, 04.09.2026 tarihinde motorine zam yapıldığı belirtilmiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Akaryakıtta çifte zam",
-      "detail": "Habertürk'te 'Akaryakıtta çifte zam!' başlığı yer alıyor. Metinde zam miktarları ve hangi yakıt türlerini kapsadığına dair detay verilmiyor.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": null,
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
