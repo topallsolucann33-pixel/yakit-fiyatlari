@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-05T14:04:28.065Z",
+  "updatedAt": "2026-09-05T21:20:19.190Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine çifte zam bekleniyor",
-      "detail": "Habertürk'ten alınan bilgiye göre akaryakıtta genel bir çifte zam haberi bulunmaktadır, ancak benzin için spesifik bir miktar belirtilmemiştir.",
+      "headline": "Benzine zam",
+      "detail": "Habertürk'ten alınan bilgiye göre akaryakıt fiyatlarında çifte zam gerçekleştiği belirtiliyor. Bu kapsamda benzin fiyatlarında artış yaşanmıştır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
       "type": "zam",
-      "amount": "90 ₺'yi aştı, 100 ₺'ye koşuyor",
-      "headline": "Motorin fiyatları uçtu, 100 TL'ye koşuyor",
-      "detail": "Mazot fiyatları 90 lirayı aşarak çiftçilerin tepkisine neden oldu ve 100 TL seviyesine doğru yükselişini sürdürüyor.",
+      "amount": null,
+      "headline": "Motorin fiyatları uçtu: 100 TL'ye koşuyor",
+      "detail": "Akaryakıt fiyatları genel olarak yükselirken, motorin fiyatının 100 TL seviyesine doğru ilerlediği belirtiliyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz fiyatları hakkında bilgi yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "LPG'ye zam beklentisi sorgulanıyor",
+      "detail": "Bigpara haberlerinde LPG'ye zam gelip gelmeyeceği sorgulanıyor. Henüz kesin bir zam bilgisi veya miktarı bulunmuyor.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
