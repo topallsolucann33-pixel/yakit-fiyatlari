@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-06T14:04:46.198Z",
+  "updatedAt": "2026-09-06T21:20:18.956Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam bekleniyor",
-      "detail": "Bigpara haberine göre benzine zam geleceği belirtiliyor. Zam miktarı hakkında metinde bilgi verilmemiştir.",
+      "headline": "Benzine zam geliyor",
+      "detail": "3 gün önce yayınlanan habere göre benzine zam bekleniyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam bekleniyor",
-      "detail": "Bigpara haberine göre motorine zam geleceği belirtiliyor. Zam miktarı hakkında metinde bilgi verilmemiştir.",
+      "headline": "Motorine zam geliyor",
+      "detail": "3 gün önce yayınlanan habere göre motorine zam bekleniyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "LPG için güncel zam/indirim haberi yok",
-      "detail": "Metinde LPG için net bir zam veya indirim bilgisi bulunmamaktadır, sadece 'zam var mı' şeklinde bir soru olarak geçmektedir.",
+      "headline": "Otogaz için güncel zam/indirim haberi yok",
+      "detail": "Metinde otogaz (LPG) ile ilgili kesinleşmiş bir zam veya indirim haberi bulunmamaktadır, sadece bir soru olarak geçmektedir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
