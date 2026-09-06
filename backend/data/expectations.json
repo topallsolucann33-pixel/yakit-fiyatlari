@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-05T21:20:19.190Z",
+  "updatedAt": "2026-09-06T04:04:00.321Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam",
-      "detail": "Habertürk'ten alınan bilgiye göre akaryakıt fiyatlarında çifte zam gerçekleştiği belirtiliyor. Bu kapsamda benzin fiyatlarında artış yaşanmıştır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "amount": "2,74 ₺",
+      "headline": "Benzine zam durmuyor, litre fiyatı 74.26 TL'ye fırladı",
+      "detail": "Brent petrolün yükselişiyle benzine son olarak 2.74 TL zam geldi. Litre fiyatı bir ayda 67 TL'den 74.26 TL'ye yükseldi.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorin fiyatları uçtu: 100 TL'ye koşuyor",
-      "detail": "Akaryakıt fiyatları genel olarak yükselirken, motorin fiyatının 100 TL seviyesine doğru ilerlediği belirtiliyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "amount": "8,24 ₺",
+      "headline": "Motorine dev zam kapıda, 8,24 TL artış bekleniyor",
+      "detail": "Petrol fiyatlarındaki yükselişle motorinin litre fiyatına 8,24 TL zam yapılması bekleniyor. Daha önce 1 Eylül'de 3,60 TL ÖTV zammı yansımıştı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "LPG'ye zam beklentisi sorgulanıyor",
-      "detail": "Bigpara haberlerinde LPG'ye zam gelip gelmeyeceği sorgulanıyor. Henüz kesin bir zam bilgisi veya miktarı bulunmuyor.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "",
+      "detail": "",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
