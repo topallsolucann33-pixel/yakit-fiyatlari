@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-06T04:04:00.321Z",
+  "updatedAt": "2026-09-06T14:04:46.198Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "2,74 ₺",
-      "headline": "Benzine zam durmuyor, litre fiyatı 74.26 TL'ye fırladı",
-      "detail": "Brent petrolün yükselişiyle benzine son olarak 2.74 TL zam geldi. Litre fiyatı bir ayda 67 TL'den 74.26 TL'ye yükseldi.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": null,
+      "headline": "Benzine zam bekleniyor",
+      "detail": "Bigpara haberine göre benzine zam geleceği belirtiliyor. Zam miktarı hakkında metinde bilgi verilmemiştir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
-      "amount": "8,24 ₺",
-      "headline": "Motorine dev zam kapıda, 8,24 TL artış bekleniyor",
-      "detail": "Petrol fiyatlarındaki yükselişle motorinin litre fiyatına 8,24 TL zam yapılması bekleniyor. Daha önce 1 Eylül'de 3,60 TL ÖTV zammı yansımıştı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": null,
+      "headline": "Motorine zam bekleniyor",
+      "detail": "Bigpara haberine göre motorine zam geleceği belirtiliyor. Zam miktarı hakkında metinde bilgi verilmemiştir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "",
-      "detail": "",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "LPG için güncel zam/indirim haberi yok",
+      "detail": "Metinde LPG için net bir zam veya indirim bilgisi bulunmamaktadır, sadece 'zam var mı' şeklinde bir soru olarak geçmektedir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
