@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-06T21:20:18.956Z",
+  "updatedAt": "2026-09-07T21:22:22.389Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geliyor",
-      "detail": "3 gün önce yayınlanan habere göre benzine zam bekleniyor.",
+      "headline": "Benzine zam bekleniyor",
+      "detail": "Bigpara'dan 4 gün önce yayınlanan habere göre benzine zam geleceği belirtiliyor. Zam miktarı hakkında bilgi verilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geliyor",
-      "detail": "3 gün önce yayınlanan habere göre motorine zam bekleniyor.",
+      "headline": "Motorine zam bekleniyor",
+      "detail": "Bigpara'dan 4 gün önce yayınlanan habere göre motorine zam geleceği belirtiliyor. Zam miktarı hakkında bilgi verilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz için güncel zam/indirim haberi yok",
-      "detail": "Metinde otogaz (LPG) ile ilgili kesinleşmiş bir zam veya indirim haberi bulunmamaktadır, sadece bir soru olarak geçmektedir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaza bu gece yarısından itibaren zam geliyor",
+      "detail": "ABD-İran gerilimi ve Brent petrolün 95 dolar üzerine çıkması nedeniyle otogaza bu gece yarısından itibaren zam yapılacak.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     }
   }
 }
