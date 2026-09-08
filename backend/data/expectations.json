@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-07T21:22:22.389Z",
+  "updatedAt": "2026-09-08T04:01:36.748Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam bekleniyor",
-      "detail": "Bigpara'dan 4 gün önce yayınlanan habere göre benzine zam geleceği belirtiliyor. Zam miktarı hakkında bilgi verilmemiştir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "2.74 ₺",
+      "headline": "Benzine zam durmuyor",
+      "detail": "Brent petrolün yükselişinin ardından benzinin litre fiyatına son olarak 2.74 TL zam geldi. Bir ayda litre fiyatı 67 TL'den 74.26 TL'ye yükseldi.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorine zam bekleniyor",
-      "detail": "Bigpara'dan 4 gün önce yayınlanan habere göre motorine zam geleceği belirtiliyor. Zam miktarı hakkında bilgi verilmemiştir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "8,24 ₺",
+      "headline": "Motorine dev zam kapıda",
+      "detail": "Petrol fiyatlarındaki yükselişin ardından motorinin litre fiyatına 8,24 TL zam yapılması bekleniyor. Daha önce 1 Eylül'de ÖTV zammıyla 3,60 TL artış olmuştu.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Otogaza bu gece yarısından itibaren zam geliyor",
-      "detail": "ABD-İran gerilimi ve Brent petrolün 95 dolar üzerine çıkması nedeniyle otogaza bu gece yarısından itibaren zam yapılacak.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": "Otogaz bilgisi bulunamadı",
+      "detail": "Verilen metinlerde otogaz (LPG) ile ilgili güncel bir zam veya indirim bilgisi yer almamaktadır.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
