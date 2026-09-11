@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-11T08:24:32.150Z",
+  "updatedAt": "2026-09-11T17:25:50.533Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
-      "amount": null,
-      "headline": "Benzin fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde benzin fiyatlarına yönelik belirli bir zam veya indirim bilgisi yer almamaktadır. Döviz kuru ve petrol fiyatları genel olarak akaryakıtı etkiliyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "type": "zam",
+      "amount": "3,20 ₺",
+      "headline": "Benzine 3,20 TL zam bekleniyor",
+      "detail": "11/09/2026 tarihli habere göre, bu gece yarısından itibaren benzine 3,20 TL zam gelmesi bekleniyor. Bu zamla birlikte litre fiyatı 80 TL'yi aşacak.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "yok",
-      "amount": null,
-      "headline": "Motorin fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde motorin fiyatlarına yönelik belirli bir zam veya indirim bilgisi yer almamaktadır. Döviz kuru ve petrol fiyatları genel olarak akaryakıtı etkiliyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "type": "zam",
+      "amount": "8,24 ₺",
+      "headline": "Motorine 8,24 TL dev zam kapıda",
+      "detail": "03/09/2026 tarihli habere göre, petrol fiyatlarındaki yükselişin ardından motorinin litre fiyatına 8,24 TL zam yapılması bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde otogaz fiyatlarına yönelik belirli bir zam veya indirim bilgisi yer almamaktadır. Döviz kuru ve petrol fiyatları genel olarak akaryakıtı etkiliyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": "Otogaz (LPG) ile ilgili bilgi bulunamadı",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatlarına ilişkin herhangi bir bilgi veya değişiklik haberi yer almamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
