@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-11T23:14:24.543Z",
+  "updatedAt": "2026-09-12T08:16:15.508Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzin ve motorine zam dalgası: Kritik seviye aşılacak",
-      "detail": "BirGün Gazetesi'nin haberine göre benzin ve motorinde kritik seviyeyi aşacak bir zam dalgası bekleniyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzin fiyatlarında güncel zam veya indirim haberi yok",
+      "detail": "Metinde benzin için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     },
     "motorin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzin ve motorine zam dalgası: Kritik seviye aşılacak",
-      "detail": "BirGün Gazetesi'nin haberine göre benzin ve motorinde kritik seviyeyi aşacak bir zam dalgası bekleniyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorin fiyatlarında güncel zam veya indirim haberi yok",
+      "detail": "Metinde motorin için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaz (LPG) fiyatlarında güncel zam veya indirim haberi yok",
+      "detail": "Metinde otogaz (LPG) için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     }
   }
 }
