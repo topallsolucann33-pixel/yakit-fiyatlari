@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-12T08:16:15.508Z",
+  "updatedAt": "2026-09-12T16:41:41.149Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Benzin fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde benzin için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": "Benzin 82 lirayı aştı",
+      "detail": "Benzin fiyatı 82 lirayı aşarak yeni bir zamla yurttaşların tepkisine neden oldu.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorin fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde motorin için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
+      "headline": "Motorin fiyatları 100 TL sınırına yaklaşıyor",
+      "detail": "Ortadoğu'daki saldırılar ve yükselen enerji maliyetleri Brent petrolü 110 dolar sınırına taşırken, motorin fiyatlarının 100 TL seviyesine yaklaştığı belirtiliyor.",
       "source": "Dünya Gazetesi",
       "url": "https://www.dunya.com/enerji"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel zam veya indirim haberi yok",
-      "detail": "Metinde otogaz (LPG) için belirli bir zam veya indirim bilgisi bulunmamaktadır. Akaryakıt fiyatları döviz kuru, petrol fiyatları ve vergilerdeki hareketlilikten etkilenmeye devam ediyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": null,
+      "detail": null,
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
