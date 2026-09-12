@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-12T16:41:41.149Z",
+  "updatedAt": "2026-09-12T23:01:30.472Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzin 82 lirayı aştı",
-      "detail": "Benzin fiyatı 82 lirayı aşarak yeni bir zamla yurttaşların tepkisine neden oldu.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine zam geldi! Son dakika gelişmesi",
+      "detail": "12 Eylül 2026 tarihli haberlere göre benzine zam geldiği belirtilmektedir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorin fiyatları 100 TL sınırına yaklaşıyor",
-      "detail": "Ortadoğu'daki saldırılar ve yükselen enerji maliyetleri Brent petrolü 110 dolar sınırına taşırken, motorin fiyatlarının 100 TL seviyesine yaklaştığı belirtiliyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "amount": "8,24 ₺",
+      "headline": "Motorine dev zam beklentisi kapıda",
+      "detail": "Petrol fiyatlarındaki yükseliş nedeniyle motorinin litre fiyatına önümüzdeki hafta 8,24 TL'lik dev bir zam yapılması bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogazda güncel fiyat değişimi yok",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
