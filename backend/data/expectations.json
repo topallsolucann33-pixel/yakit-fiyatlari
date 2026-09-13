@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:37:24.075Z",
+  "updatedAt": "2026-09-13T17:09:05.998Z",
   "expectations": {
     "benzin": {
       "type": "zam",
@@ -10,18 +10,18 @@
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "yok",
-      "amount": null,
-      "headline": "Motorin fiyatlarında güncel bir değişiklik yok",
-      "detail": "Verilen metinde motorin fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "type": "zam",
+      "amount": "8,24 TL",
+      "headline": "Motorine 8,24 TL zam bekleniyor, dev zam kapıda",
+      "detail": "Petrol fiyatlarındaki yükselişin ardından motorine 8,24 TL zam yapılması bekleniyor. Daha önce 1 Eylül'de 3,60 TL'lik ÖTV zammı pompaya yansımıştı.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel bir değişiklik yok",
-      "detail": "Verilen metinde otogaz fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
