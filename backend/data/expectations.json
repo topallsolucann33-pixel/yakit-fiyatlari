@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-13T17:09:05.998Z",
+  "updatedAt": "2026-09-13T23:06:48.599Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "Habertürk'ten alınan bilgiye göre benzine zam yapıldı.",
+      "detail": "Habertürk metnine göre benzine zam yapıldığı belirtilmiştir.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
       "type": "zam",
-      "amount": "8,24 TL",
-      "headline": "Motorine 8,24 TL zam bekleniyor, dev zam kapıda",
-      "detail": "Petrol fiyatlarındaki yükselişin ardından motorine 8,24 TL zam yapılması bekleniyor. Daha önce 1 Eylül'de 3,60 TL'lik ÖTV zammı pompaya yansımıştı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": null,
+      "headline": "Motorine dev zam geliyor, tarihi belli oldu",
+      "detail": "BirGün Gazetesi'ne göre, motorine dev bir zam geleceği ve zammın tarihinin belli olduğu bildirildi.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogaz için güncel zam/indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili spesifik bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
