@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-12T23:01:30.472Z",
+  "updatedAt": "2026-09-13T08:37:24.075Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geldi! Son dakika gelişmesi",
-      "detail": "12 Eylül 2026 tarihli haberlere göre benzine zam geldiği belirtilmektedir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine zam geldi",
+      "detail": "Habertürk'ten alınan bilgiye göre benzine zam yapıldı.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "zam",
-      "amount": "8,24 ₺",
-      "headline": "Motorine dev zam beklentisi kapıda",
-      "detail": "Petrol fiyatlarındaki yükseliş nedeniyle motorinin litre fiyatına önümüzdeki hafta 8,24 TL'lik dev bir zam yapılması bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Motorin fiyatlarında güncel bir değişiklik yok",
+      "detail": "Verilen metinde motorin fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda güncel fiyat değişimi yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaz fiyatlarında güncel bir değişiklik yok",
+      "detail": "Verilen metinde otogaz fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
