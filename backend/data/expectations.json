@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-14T23:51:35.621Z",
+  "updatedAt": "2026-09-15T09:00:52.348Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzine zam geldiği duyuruldu.",
-      "detail": "12 Eylül 2026 tarihli haberlere göre benzine zam geldiği belirtilmiştir. Zam miktarı hakkında bilgi verilmemiştir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzin için güncel fiyat değişikliği haberi yok",
+      "detail": "Sağlanan metinde benzin fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine son dakika zammı, tabelalar değişti.",
-      "detail": "15 Eylül 2026 tarihinde motorine zam geldiği ve akaryakıt tabelalarının değiştiği son dakika olarak bildirildi. Zam miktarı metinde yer almamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine büyük zam kapıda, tarihi belli oldu",
+      "detail": "14.09.2026 tarihli habere göre motorine büyük bir zam bekleniyor ve zammın tarihi belli olmuştur.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel bir değişiklik haberi bulunmamaktadır.",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi yer almamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogaz için güncel fiyat değişikliği haberi yok",
+      "detail": "Sağlanan metinde otogaz fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
