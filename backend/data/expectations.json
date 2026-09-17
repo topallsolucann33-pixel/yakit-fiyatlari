@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-17T08:58:29.833Z",
+  "updatedAt": "2026-09-17T17:52:12.174Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "3,20 ₺",
-      "headline": "Benzine 3,20 TL zam geldi, 80 TL'yi aştı",
-      "detail": "11 Eylül 2026 gece yarısından geçerli olmak üzere benzinin litre fiyatına 3,20 TL zam bekleniyordu ve bu zam pompaya yansıyarak litresi 80 lirayı geçti.",
+      "amount": null,
+      "headline": "Benzinde artış sürecek, 80 lirayı aşacak",
+      "detail": "ABD'li yatırım bankası Goldman Sachs'a göre enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükseliş sürecek ve litre fiyatı 80 lirayı aşabilir.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorin 100 TL'yi aştı",
-      "detail": "Motorin litre fiyatı ilk kez üç haneli rakamlara ulaşarak 100 TL'yi aştı. Bu durum çiftçiler arasında endişe yarattı.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorin fiyatı 100 TL'yi aştı",
+      "detail": "Küresel arz kaybı motorin piyasasını daraltırken, motorin fiyatları 100 TL seviyesini geçtiği belirtilmiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaz fiyatlarında güncel bir haber yok",
+      "detail": "Metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
