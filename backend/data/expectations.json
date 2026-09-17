@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-16T23:38:26.833Z",
+  "updatedAt": "2026-09-17T08:58:29.833Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "3,20 ₺",
-      "headline": "Benzine 3,20 TL zam geldi, litre fiyatı 80 lirayı aştı.",
-      "detail": "11/09/2026 tarihinde gece yarısından itibaren geçerli olmak üzere benzinin litre fiyatına 3,20 TL zam yapıldı ve tüm illerde 80 lirayı geçti.",
+      "headline": "Benzine 3,20 TL zam geldi, 80 TL'yi aştı",
+      "detail": "11 Eylül 2026 gece yarısından geçerli olmak üzere benzinin litre fiyatına 3,20 TL zam bekleniyordu ve bu zam pompaya yansıyarak litresi 80 lirayı geçti.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine gece yarısı zam bekleniyor",
-      "detail": "Motorin litre fiyatının gece yarısından itibaren 100 lirayı aşması bekleniyor.",
+      "headline": "Motorin 100 TL'yi aştı",
+      "detail": "Motorin litre fiyatı ilk kez üç haneli rakamlara ulaşarak 100 TL'yi aştı. Bu durum çiftçiler arasında endişe yarattı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
