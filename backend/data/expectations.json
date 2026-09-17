@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-17T17:52:12.174Z",
+  "updatedAt": "2026-09-17T23:32:48.452Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzinde artış sürecek, 80 lirayı aşacak",
-      "detail": "ABD'li yatırım bankası Goldman Sachs'a göre enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükseliş sürecek ve litre fiyatı 80 lirayı aşabilir.",
+      "headline": "Benzin fiyatlarında artış sürecek",
+      "detail": "ABD'li Goldman Sachs, Ortadoğu'daki gelişmeler nedeniyle benzin fiyatlarındaki yükselişin süreceğini ve litrenin 80 lirayı aşacağını öngörüyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
+      "amount": "100 TL",
       "headline": "Motorin fiyatı 100 TL'yi aştı",
-      "detail": "Küresel arz kaybı motorin piyasasını daraltırken, motorin fiyatları 100 TL seviyesini geçtiği belirtilmiştir.",
+      "detail": "Küresel motorin piyasasındaki arz kaybı devam ederken, motorin fiyatı 100 TL seviyesini aşarak yeni bir eşiğe ulaştı.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel bir haber yok",
-      "detail": "Metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": "Otogaz fiyatlarında güncel bir değişiklik yok",
+      "detail": "Metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
