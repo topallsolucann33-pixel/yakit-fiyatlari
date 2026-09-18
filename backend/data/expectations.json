@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-18T08:33:20.310Z",
+  "updatedAt": "2026-09-18T17:23:27.588Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzinde artış sürecek, Goldman Sachs yükseliş bekliyor",
-      "detail": "ABD'li yatırım bankası Goldman Sachs, Ortadoğu'daki enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin devam edeceğini duyurdu.",
+      "headline": "Benzinde artış sürecek, 80 TL'yi aşabilir",
+      "detail": "Goldman Sachs, Ortadoğu'daki enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin süreceğini ve litre fiyatının 80 TL'yi aşabileceğini duyurdu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geliyor",
-      "detail": "BirGün gazetesinin 18.09.2026 tarihli haberine göre motorin fiyatlarında bir indirim bekleniyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorine indirim haberi: Güncel durum ve beklentiler",
+      "detail": "17 Eylül'de motorine zam gelmiş ve litre fiyatı 100 lirayı geçmişti. 18 Eylül için ise son dakika indirim haberi gündemde.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel bir haber yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaz fiyatlarında güncel haber yok",
+      "detail": "Metinde otogaz fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
