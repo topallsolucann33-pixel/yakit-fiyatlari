@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-18T23:16:02.358Z",
+  "updatedAt": "2026-09-19T08:20:24.949Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzinde artış sürecek, 80 TL'yi aşması bekleniyor",
-      "detail": "Goldman Sachs'a göre benzin fiyatlarındaki yükseliş devam edecek. Litre fiyatının 80 TL'yi aşması bekleniyor.",
+      "headline": "Benzinde artış devam edecek, 80 TL'yi aşması bekleniyor",
+      "detail": "ABD'li yatırım bankası Goldman Sachs, enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin süreceğini belirtti. Litre fiyatının 80 TL'yi aşması öngörülüyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "zam",
-      "amount": "4,60 ₺",
-      "headline": "Motorine yeni zam: Litre fiyatı 100 TL'yi aştı",
-      "detail": "Salı günü 6,62 lira zamlanan motorine yaklaşık 4,6 liralık yeni artış geldi ve litre fiyatı Türkiye'de ilk kez üç haneli rakamlara ulaştı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "indirim",
+      "amount": null,
+      "headline": "Motorinde indirim",
+      "detail": "Habertürk manşetlerinde motorinde indirim haberi yer almaktadır. Ayrıca 'üç hane' hesabı ile ilgili bir değişiklikten bahsedilmektedir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz hakkında güncel bilgi yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": null,
+      "detail": null,
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
