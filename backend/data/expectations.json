@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T08:52:03.512Z",
+  "updatedAt": "2026-09-20T17:09:59.045Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzinde artış sürecek beklentisi",
-      "detail": "ABD'li yatırım bankası Goldman Sachs, Ortadoğu'daki gelişmelerle benzin fiyatlarındaki yükselişin süreceğini duyurdu.",
+      "headline": "Benzin fiyatlarında artış sürecek",
+      "detail": "ABD'li yatırım bankası Goldman Sachs, Ortadoğu'daki enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin devam edeceğini duyurdu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorinde indirim beklentisi",
-      "detail": "Habertürk metninde motorin için bir indirim beklentisi veya haberi belirtilmiştir.",
+      "headline": "Motorinde indirim",
+      "detail": "Habertürk'ten alınan bilgilere göre motorin fiyatlarında bir indirim gerçekleştiği belirtilmektedir.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz için güncel haber yok",
-      "detail": "Metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz fiyatlarında güncel bir haber yok",
+      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
