@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:21:36.148Z",
+  "updatedAt": "2026-09-21T18:59:21.690Z",
   "expectations": {
     "benzin": {
       "type": "zam",
@@ -13,15 +13,15 @@
       "type": "indirim",
       "amount": null,
       "headline": "Motorine 19 Eylül'de indirim geldi",
-      "detail": "19 Eylül 2026 tarihinde motorin fiyatlarına indirim yapıldığı belirtiliyor ancak miktarı açıklanmadı.",
+      "detail": "19 Eylül 2026 tarihinde motorine indirim geldiği belirtiliyor, ancak miktarı açıklanmadı. Bu indirim, 17 Eylül'deki zammın ardından gerçekleşti.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel bir bilgi yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi yer almamaktadır.",
+      "headline": "Otogaz fiyatlarında güncel haber yok",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam veya indirim haberi bulunmamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
