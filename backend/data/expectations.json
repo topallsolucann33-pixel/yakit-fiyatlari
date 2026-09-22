@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-22T17:50:42.028Z",
+  "updatedAt": "2026-09-22T23:35:37.301Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "3,20 ₺",
-      "headline": "Benzine 3,20 TL zam geldi, artış sürecek",
-      "detail": "Benzinin litre fiyatına 3,20 TL zam pompaya yansıdı. Goldman Sachs, benzin fiyatlarındaki yükselişin devam edeceğini öngörüyor.",
+      "headline": "Benzine 3,20 TL zam; artış sürecek",
+      "detail": "Benzinin litre fiyatına 3,20 TL zam pompaya yansıdı. Goldman Sachs, Ortadoğu'daki gelişmelerle artışın süreceğini öngörüyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geldi, tabelalar değişti",
-      "detail": "19 Eylül 2026 tarihinde motorine indirim geldiği ve gece yarısı tabelaların değiştiği belirtiliyor, ancak indirim miktarı açıklanmamıştır.",
+      "headline": "Motorine indirim beklentisi veya gerçekleşti",
+      "detail": "19 Eylül 2026 tarihli haberlere göre motorine indirim beklentisi veya gerçekleştiği yönünde bilgiler var. Gece yarısı tabelaların değiştiği belirtilse de indirimin miktarı netleşmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) ile ilgili haber yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogazda zam/indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir güncel zam veya indirim haberi yer almamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
