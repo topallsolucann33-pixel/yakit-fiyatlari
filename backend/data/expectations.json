@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-22T23:35:37.301Z",
+  "updatedAt": "2026-09-23T08:53:24.223Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
-      "amount": "3,20 ₺",
-      "headline": "Benzine 3,20 TL zam; artış sürecek",
-      "detail": "Benzinin litre fiyatına 3,20 TL zam pompaya yansıdı. Goldman Sachs, Ortadoğu'daki gelişmelerle artışın süreceğini öngörüyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "type": "yok",
+      "amount": null,
+      "headline": "Benzin fiyatlarında güncel zam/indirim haberi yok",
+      "detail": "Sağlanan metinde benzin fiyatlarına ilişkin güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim beklentisi veya gerçekleşti",
-      "detail": "19 Eylül 2026 tarihli haberlere göre motorine indirim beklentisi veya gerçekleştiği yönünde bilgiler var. Gece yarısı tabelaların değiştiği belirtilse de indirimin miktarı netleşmemiştir.",
+      "headline": "Motorine indirim geldi: Gece yarısı tabelalar değişti",
+      "detail": "19 Eylül 2026 tarihinde motorine indirim geldiği ve gece yarısı tabelaların değiştiği belirtiliyor. Ancak indirimin miktarı metinde açıklanmamıştır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogazda zam/indirim haberi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir güncel zam veya indirim haberi yer almamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaz fiyatlarında güncel zam/indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
