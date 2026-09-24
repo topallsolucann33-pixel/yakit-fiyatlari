@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T08:48:55.060Z",
+  "updatedAt": "2026-09-24T18:05:10.951Z",
   "expectations": {
     "benzin": {
       "type": "zam",
@@ -10,18 +10,18 @@
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorine indirim geldi",
-      "detail": "24.09.2026 tarihinde motorin fiyatlarında bir indirim gerçekleştiği belirtilmiştir.",
+      "headline": "Motorine zam geliyor",
+      "detail": "BirGün Gazetesi'nin 24.09.2026 tarihli haberine göre motorine zam bekleniyor. Daha önce indirim geldiği belirtilse de, en güncel bilgi zam yönünde.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında güncel haber yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
+      "headline": "Otogaz fiyatlarında güncel gelişme yok",
+      "detail": "Metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim haberi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
