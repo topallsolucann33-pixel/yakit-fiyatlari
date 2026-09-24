@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-23T23:39:04.637Z",
+  "updatedAt": "2026-09-24T08:48:55.060Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzindeki artış devam edecek",
+      "headline": "Benzinde artış devam edecek",
       "detail": "ABD'li yatırım bankası Goldman Sachs, Ortadoğu'daki enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin süreceğini duyurdu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
@@ -12,16 +12,16 @@
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geliyor",
-      "detail": "Petrol fiyatlarındaki düşüşün devam etmesiyle birlikte motorin fiyatlarında indirim bekleniyor.",
+      "headline": "Motorine indirim geldi",
+      "detail": "24.09.2026 tarihinde motorin fiyatlarında bir indirim gerçekleştiği belirtilmiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
+      "headline": "Otogaz fiyatlarında güncel haber yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
