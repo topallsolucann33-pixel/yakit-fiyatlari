@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-25T09:08:53.521Z",
+  "updatedAt": "2026-09-25T18:10:08.253Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzindeki artış devam edecek",
-      "detail": "ABD'li yatırım bankası Goldman Sachs, Ortadoğu'daki enerji tesislerinin vurulmasıyla benzin fiyatlarındaki yükselişin süreceğini duyurdu.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Benzin fiyatlarında değişiklik yok",
+      "detail": "Metinde benzin fiyatlarında herhangi bir zam veya indirim beklentisi ya da haberi bulunmamaktadır.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     },
     "motorin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Motorin fiyatlarına zam geldi",
-      "detail": "Habertürk'ten alınan bilgiye göre motorin fiyatlarında artış yaşandı.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "amount": "2,55 ₺",
+      "headline": "Motorine yarından itibaren zam bekleniyor",
+      "detail": "5,57 TL'lik indirimin ardından, motorinin litre fiyatına yarından itibaren geçerli olmak üzere 2,55 TL zam yapılması bekleniyor.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatları hakkında güncel bilgi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogaz fiyatlarında değişiklik yok",
+      "detail": "Metinde otogaz (LPG) fiyatları ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Dünya Gazetesi",
+      "url": "https://www.dunya.com/enerji"
     }
   }
 }
