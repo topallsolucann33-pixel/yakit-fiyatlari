@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-25T18:10:08.253Z",
+  "updatedAt": "2026-09-25T23:56:38.538Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Benzin fiyatlarında değişiklik yok",
-      "detail": "Metinde benzin fiyatlarında herhangi bir zam veya indirim beklentisi ya da haberi bulunmamaktadır.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": "Benzine tarihin en büyük zammı gündemde",
+      "detail": "Eşelmobil sisteminin sona ermesiyle benzine tarihin en büyük zammının geleceği belirtiliyor.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
-      "amount": "2,55 ₺",
-      "headline": "Motorine yarından itibaren zam bekleniyor",
-      "detail": "5,57 TL'lik indirimin ardından, motorinin litre fiyatına yarından itibaren geçerli olmak üzere 2,55 TL zam yapılması bekleniyor.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "amount": null,
+      "headline": "Motorine zam geldi",
+      "detail": "Motorin fiyatlarında tabela yeniden değişti ve zam yapıldı.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarında değişiklik yok",
-      "detail": "Metinde otogaz (LPG) fiyatları ile ilgili güncel bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Dünya Gazetesi",
-      "url": "https://www.dunya.com/enerji"
+      "headline": "Otogaz ile ilgili güncel haber yok",
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
