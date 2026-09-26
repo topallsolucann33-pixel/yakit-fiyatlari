@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T23:56:38.538Z",
+  "updatedAt": "2026-09-26T08:52:34.556Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine tarihin en büyük zammı gündemde",
-      "detail": "Eşelmobil sisteminin sona ermesiyle benzine tarihin en büyük zammının geleceği belirtiliyor.",
+      "detail": "Eşelmobil sisteminin sona ermesiyle birlikte benzine tarihin en büyük zammının geleceği belirtiliyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geldi",
-      "detail": "Motorin fiyatlarında tabela yeniden değişti ve zam yapıldı.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorin fiyatlarına zam geldi",
+      "detail": "Habertürk'e göre motorin fiyatlarına zam yapıldı.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz ile ilgili güncel haber yok",
-      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": "Otogaz için güncel haber yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
