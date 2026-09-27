@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-27T09:35:15.021Z",
+  "updatedAt": "2026-09-27T17:59:44.804Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "10 ₺'nin üstünde",
-      "headline": "Benzin fiyatlarında 10 TL'nin üstünde artış bekleniyor",
-      "detail": "Benzine 1 Ekim'den itibaren eşel mobil zammı ile 10 TL'nin üzerinde bir artış geleceği belirtiliyor.",
+      "headline": "Benzine 10 ₺ üstünde zam, 1 Ekim'de başlıyor",
+      "detail": "Benzin fiyatlarında 10 TL'nin üzerinde bir artış bekleniyor. Eşel mobil zammı 1 Ekim'den itibaren yürürlüğe girecek.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorin fiyatlarına zam geldi",
-      "detail": "Verilen metne göre motorin fiyatlarında bir artış gerçekleşti.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Motorine zam geldi, tabelalar değişti",
+      "detail": "Motorin fiyatlarına 25 Eylül 2026 Cuma günü zam geldiği belirtildi. Akaryakıt tabelaları değişirken, zam miktarı açıklanmadı.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
       "headline": null,
       "detail": null,
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
