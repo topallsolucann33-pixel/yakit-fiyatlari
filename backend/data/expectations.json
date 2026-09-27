@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T23:35:02.382Z",
+  "updatedAt": "2026-09-27T09:35:15.021Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "10 ₺'nin üstünde",
       "headline": "Benzin fiyatlarında 10 TL'nin üstünde artış bekleniyor",
-      "detail": "Benzine 1 Ekim'den itibaren eşel mobil zammı uygulanacak ve fiyatlar 10 TL'nin üzerinde artacak.",
+      "detail": "Benzine 1 Ekim'den itibaren eşel mobil zammı ile 10 TL'nin üzerinde bir artış geleceği belirtiliyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorin fiyatlarına zam geldi",
-      "detail": "Habertürk metnine göre motorin fiyatlarına zam yapıldığı belirtilmiştir.",
+      "detail": "Verilen metne göre motorin fiyatlarında bir artış gerçekleşti.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz fiyatlarına dair bilgi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatları ile ilgili güncel bir zam veya indirim haberi bulunmamaktadır.",
+      "headline": null,
+      "detail": null,
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     }
