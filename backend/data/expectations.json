@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-27T17:59:44.804Z",
+  "updatedAt": "2026-09-27T23:47:46.677Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "10 ₺'nin üstünde",
-      "headline": "Benzine 10 ₺ üstünde zam, 1 Ekim'de başlıyor",
-      "detail": "Benzin fiyatlarında 10 TL'nin üzerinde bir artış bekleniyor. Eşel mobil zammı 1 Ekim'den itibaren yürürlüğe girecek.",
+      "amount": null,
+      "headline": "Benzine 1 Ekim'den itibaren eşel mobil zammı geliyor",
+      "detail": "1 gün önce yayınlanan habere göre, 1 Ekim'den itibaren benzine eşel mobil zammı ile 10 TL'nin üzerinde bir artış bekleniyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geldi, tabelalar değişti",
-      "detail": "Motorin fiyatlarına 25 Eylül 2026 Cuma günü zam geldiği belirtildi. Akaryakıt tabelaları değişirken, zam miktarı açıklanmadı.",
+      "headline": "Motorine 25 Eylül'de zam geldi, akaryakıt tabelaları değişti",
+      "detail": "2 gün önce yayınlanan habere göre, 25 Eylül 2026 Cuma günü motorine zam geldiği ve akaryakıt tabelalarının değiştiği belirtiliyor. Zam miktarı haberde belirtilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": null,
-      "detail": null,
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaz (LPG) fiyatlarında güncel zam veya indirim haberi bulunmuyor",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi yer almamaktadır.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     }
   }
 }
