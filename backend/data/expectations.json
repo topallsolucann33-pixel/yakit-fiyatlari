@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-27T23:47:46.677Z",
+  "updatedAt": "2026-09-28T10:13:44.254Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine 1 Ekim'den itibaren eşel mobil zammı geliyor",
-      "detail": "1 gün önce yayınlanan habere göre, 1 Ekim'den itibaren benzine eşel mobil zammı ile 10 TL'nin üzerinde bir artış bekleniyor.",
+      "amount": "10 ₺'nin üstünde",
+      "headline": "Benzine 1 Ekim'den itibaren 10 ₺ üstünde zam",
+      "detail": "Benzin fiyatlarına 1 Ekim'den itibaren eşel mobil zammı kapsamında 10 TL'nin üzerinde bir artış uygulanacak.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine 25 Eylül'de zam geldi, akaryakıt tabelaları değişti",
-      "detail": "2 gün önce yayınlanan habere göre, 25 Eylül 2026 Cuma günü motorine zam geldiği ve akaryakıt tabelalarının değiştiği belirtiliyor. Zam miktarı haberde belirtilmemiştir.",
+      "headline": "Motorine 25 Eylül'de zam geldi, tabelalar değişti",
+      "detail": "25 Eylül 2026 Cuma günü motorine zam geldiği ve akaryakıt tabelalarının değiştiği belirtiliyor, ancak zam miktarı açıklanmadı.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel zam veya indirim haberi bulunmuyor",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi yer almamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Otogaz fiyatları hakkında güncel bilgi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
