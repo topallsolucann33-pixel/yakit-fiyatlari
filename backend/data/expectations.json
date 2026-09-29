@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-28T20:19:32.233Z",
+  "updatedAt": "2026-09-29T00:57:50.164Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": "10 ₺'nin üstünde",
-      "headline": "Benzin fiyatlarında 10 TL'nin üstünde artış",
-      "detail": "1 Ekim'den itibaren eşel mobil zammı ile benzin fiyatlarına 10 TL'nin üzerinde bir artış bekleniyor.",
+      "amount": "10 ₺ üzeri",
+      "headline": "Benzin fiyatlarında 10 ₺ üzeri artış",
+      "detail": "Benzine eşel mobil zammı 1 Ekim'den itibaren başlıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine Brent petrol düşüşü sonrası indirim bekleniyor",
-      "detail": "Brent petrol fiyatlarının 100 doların altına düşmesiyle birlikte motorin fiyatlarında yarından itibaren geçerli olması beklenen bir indirim gündemde.",
+      "headline": "Motorine indirim bekleniyor",
+      "detail": "Brent petrolün 100 doların altına gerilemesiyle motorin fiyatlarında yarından itibaren indirim bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza 1 Ekim'de eşel mobil sonrası zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına da zam gelmesi bekleniyor.",
+      "headline": "Otogaza 1 Ekim'de zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaz fiyatlarına zam gelmesi bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
