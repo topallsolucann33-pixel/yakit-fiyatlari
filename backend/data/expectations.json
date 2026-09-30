@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-29T19:00:06.503Z",
+  "updatedAt": "2026-09-30T00:23:05.655Z",
   "expectations": {
     "benzin": {
       "type": "zam",
-      "amount": null,
-      "headline": "Benzine zam beklentisi",
-      "detail": "Metinde benzine ne kadar zam yapılacağı sorusu yer alıyor, ancak zam miktarı veya tarihi hakkında bilgi verilmiyor.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "amount": "12,48 ₺",
+      "headline": "Benzine dev zam geliyor!",
+      "detail": "Eşel mobil sisteminin 1 Ekim itibarıyla sona ermesiyle benzine 12 lira 48 kuruş zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam beklentisi",
-      "detail": "Metinde motorine ne kadar zam yapılacağı sorusu yer alıyor, ancak zam miktarı veya tarihi hakkında bilgi verilmiyor.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Motorine zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle motorine de zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza 1 Ekim'de zam kapıda",
-      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle otogaza zam gelmesi bekleniyor.",
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle otogaza da zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
