@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-01T10:31:37.382Z",
+  "updatedAt": "2026-10-01T19:10:15.916Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine ÖTV zammı yolda, Trump etkisiyle fiyatlar artabilir",
-      "detail": "Resmi Gazete'de yayımlanan kararla benzine ÖTV zammı bekleniyor. Ayrıca, Trump'ın dizel ihracatı yasağı değerlendirmesi benzin fiyatlarını artırabilir.",
+      "headline": "Benzin zamlandı: Yurttaş isyan etti",
+      "detail": "01.10.2026 tarihinde benzin fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geldi, 1 Ekim 2026'da tabelalar değişti",
-      "detail": "Bigpara'dan 1 saat önce yayınlanan habere göre, 1 Ekim 2026 gece yarısı akaryakıt tabelaları değişti ve motorine zam geldi. Zam miktarı metinde belirtilmemiştir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorin zamlandı: Yurttaş isyan etti",
+      "detail": "01.10.2026 tarihinde motorin fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza 1 Ekim'de eşel mobil sonrası zam kapıda",
-      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına zam gelmesi bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogaz zamlandı: Yurttaş isyan etti",
+      "detail": "01.10.2026 tarihinde otogaz fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
