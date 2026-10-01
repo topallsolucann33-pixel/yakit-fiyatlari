@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T18:44:13.711Z",
+  "updatedAt": "2026-10-01T00:32:37.313Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine 1 Ekim'de dev zam beklentisi",
-      "detail": "Akaryakıtta gözler 1 Ekim'e çevrildi. Benzin için 1 Ekim'de büyük bir zam bekleniyor.",
+      "detail": "1 Ekim'de benzin fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -13,7 +13,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine 1 Ekim'de dev zam beklentisi",
-      "detail": "Akaryakıtta gözler 1 Ekim'e çevrildi. Motorin için 1 Ekim'de büyük bir zam bekleniyor.",
+      "detail": "1 Ekim'de motorin fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "LPG'ye 1 Ekim'de dev zam beklentisi",
-      "detail": "Akaryakıtta gözler 1 Ekim'e çevrildi. LPG için 1 Ekim'de büyük bir zam bekleniyor.",
+      "detail": "1 Ekim'de LPG fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
