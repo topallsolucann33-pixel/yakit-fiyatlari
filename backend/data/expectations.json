@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-01T00:32:37.313Z",
+  "updatedAt": "2026-10-01T10:31:37.382Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine 1 Ekim'de dev zam beklentisi",
-      "detail": "1 Ekim'de benzin fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
+      "headline": "Benzine ÖTV zammı yolda, Trump etkisiyle fiyatlar artabilir",
+      "detail": "Resmi Gazete'de yayımlanan kararla benzine ÖTV zammı bekleniyor. Ayrıca, Trump'ın dizel ihracatı yasağı değerlendirmesi benzin fiyatlarını artırabilir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine 1 Ekim'de dev zam beklentisi",
-      "detail": "1 Ekim'de motorin fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorine zam geldi, 1 Ekim 2026'da tabelalar değişti",
+      "detail": "Bigpara'dan 1 saat önce yayınlanan habere göre, 1 Ekim 2026 gece yarısı akaryakıt tabelaları değişti ve motorine zam geldi. Zam miktarı metinde belirtilmemiştir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "LPG'ye 1 Ekim'de dev zam beklentisi",
-      "detail": "1 Ekim'de LPG fiyatlarına büyük bir zam gelmesi bekleniyor. Gözler akaryakıt piyasasına çevrildi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaza 1 Ekim'de eşel mobil sonrası zam kapıda",
+      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
