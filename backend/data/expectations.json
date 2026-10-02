@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-02T10:06:25.376Z",
+  "updatedAt": "2026-10-02T18:50:17.868Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine zam geldi",
-      "detail": "1 Ekim 2026 tarihinde gece yarısı itibarıyla benzine zam geldiği belirtiliyor. Zam miktarı henüz açıklanmadı.",
+      "detail": "Son haberlere göre gece yarısı akaryakıt tabelaları değişti ve benzine zam geldiği belirtiliyor, ancak zam miktarı henüz açıklanmadı.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine zam geldi",
-      "detail": "1 Ekim 2026 tarihinde gece yarısı itibarıyla motorine (mazota) zam geldiği belirtiliyor. Zam miktarı henüz açıklanmadı.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine bu gece yarısı indirim bekleniyor",
+      "detail": "02.10.2026 tarihli habere göre, motorin fiyatlarında bu gece yarısından itibaren bir indirim beklenmektedir.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza 1 Ekim'de zam kapıda",
-      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına zam gelmesi bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "LPG'ye 24 saat içinde bir zam daha",
+      "detail": "02.10.2026 tarihli habere göre, LPG fiyatları 24 saat içinde yeniden değişerek bir zam daha almıştır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
