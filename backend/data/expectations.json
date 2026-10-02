@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-02T00:44:11.389Z",
+  "updatedAt": "2026-10-02T10:06:25.376Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geldi: Yurttaşlar isyan etti",
-      "detail": "01.10.2026 tarihinde benzine zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine zam geldi",
+      "detail": "1 Ekim 2026 tarihinde gece yarısı itibarıyla benzine zam geldiği belirtiliyor. Zam miktarı henüz açıklanmadı.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam geldi: Yurttaşlar isyan etti",
-      "detail": "01.10.2026 tarihinde motorine zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorine zam geldi",
+      "detail": "1 Ekim 2026 tarihinde gece yarısı itibarıyla motorine (mazota) zam geldiği belirtiliyor. Zam miktarı henüz açıklanmadı.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza zam geldi: Yurttaşlar isyan etti",
-      "detail": "01.10.2026 tarihinde otogaza zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaza 1 Ekim'de zam kapıda",
+      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
