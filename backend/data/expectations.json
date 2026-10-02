@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-01T19:10:15.916Z",
+  "updatedAt": "2026-10-02T00:44:11.389Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzin zamlandı: Yurttaş isyan etti",
-      "detail": "01.10.2026 tarihinde benzin fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
+      "headline": "Benzine zam geldi: Yurttaşlar isyan etti",
+      "detail": "01.10.2026 tarihinde benzine zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorin zamlandı: Yurttaş isyan etti",
-      "detail": "01.10.2026 tarihinde motorin fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
+      "headline": "Motorine zam geldi: Yurttaşlar isyan etti",
+      "detail": "01.10.2026 tarihinde motorine zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaz zamlandı: Yurttaş isyan etti",
-      "detail": "01.10.2026 tarihinde otogaz fiyatlarına zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
+      "headline": "Otogaza zam geldi: Yurttaşlar isyan etti",
+      "detail": "01.10.2026 tarihinde otogaza zam yapıldığı ve bu durumun yurttaşlar arasında tepkiye neden olduğu belirtildi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
