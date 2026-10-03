@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T18:50:17.868Z",
+  "updatedAt": "2026-10-03T00:27:47.378Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine zam geldi",
-      "detail": "Son haberlere göre gece yarısı akaryakıt tabelaları değişti ve benzine zam geldiği belirtiliyor, ancak zam miktarı henüz açıklanmadı.",
+      "headline": "Benzine 1 Ekim'de zam geldi",
+      "detail": "1 Ekim 2026 tarihinde benzine zam geldiği belirtiliyor. Gece yarısı akaryakıt tabelaları değişti ancak zam miktarı metinde yer almıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -13,7 +13,7 @@
       "type": "indirim",
       "amount": null,
       "headline": "Motorine bu gece yarısı indirim bekleniyor",
-      "detail": "02.10.2026 tarihli habere göre, motorin fiyatlarında bu gece yarısından itibaren bir indirim beklenmektedir.",
+      "detail": "BirGün Gazetesi'ne göre, motorin fiyatlarına bu gece yarısından itibaren bir indirim gelmesi bekleniyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "LPG'ye 24 saat içinde bir zam daha",
-      "detail": "02.10.2026 tarihli habere göre, LPG fiyatları 24 saat içinde yeniden değişerek bir zam daha almıştır.",
+      "detail": "LPG fiyatlarına son 24 saat içinde bir kez daha zam yapıldığı belirtiliyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
