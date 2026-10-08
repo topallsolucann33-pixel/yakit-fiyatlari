@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-07T19:39:27.864Z",
+  "updatedAt": "2026-10-08T00:57:27.240Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
-      "amount": null,
-      "headline": "Benzin fiyatlarında güncel zam/indirim bilgisi yok",
-      "detail": "Metinde benzin fiyatları için güncel bir zam veya indirim haberi bulunmamaktadır, sadece bir soru olarak geçmektedir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "type": "zam",
+      "amount": "12,48 ₺",
+      "headline": "Benzine 1 Ekim'de 12,48 ₺ dev zam bekleniyor",
+      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte benzine 12 lira 48 kuruşluk büyük bir zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
       "headline": "Motorine gece indirim geldi",
-      "detail": "6 Ekim 2026 tarihinde motorin (mazot) fiyatlarına gece yarısı itibarıyla indirim yapıldığı belirtilmiştir.",
+      "detail": "6 Ekim 2026 tarihinde motorine (mazota) gece yarısı indirim yapıldığı belirtilmiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz fiyatları hakkında bilgi yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) fiyatları ile ilgili herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaza 1 Ekim'de eşel mobil sonrası zam bekleniyor",
+      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte otogaz fiyatlarına zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
