@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-08T19:34:54.421Z",
+  "updatedAt": "2026-10-09T01:11:15.159Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": "12,48 ₺",
-      "headline": "Benzine dev zam geliyor!",
-      "detail": "Akaryakıt fiyatlarında eşel mobil sistemi 1 Ekim itibarıyla sona eriyor; benzine 12 lira 48 kuruş zam bekleniyor.",
+      "headline": "Benzine 1 Ekim'de 12,48 ₺ zam kapıda",
+      "detail": "Eşel mobil sisteminin 1 Ekim'de sona ermesiyle birlikte benzine 12,48 ₺ zam gelmesi bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
@@ -13,15 +13,15 @@
       "type": "indirim",
       "amount": null,
       "headline": "Motorine gece indirim geldi!",
-      "detail": "6 Ekim 2026 tarihinde motorin (mazot) fiyatlarına gece yarısı itibarıyla indirim yapıldı.",
+      "detail": "6 Ekim 2026 tarihinde motorine (mazota) gece indirim geldiği belirtilmiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
+      "headline": "Otogaza 1 Ekim'de zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam gelmesi bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
