@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T18:08:03.984Z",
+  "updatedAt": "2026-10-11T00:13:35.948Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
       "headline": "Benzine indirim geldi",
-      "detail": "Habertürk'ten alınan bilgilere göre benzine indirim yapıldı.",
+      "detail": "Habertürk'ten alınan bilgiye göre benzine indirim yapıldı.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam geldi",
-      "detail": "Habertürk'ten alınan bilgilere göre motorine zam yapıldı.",
+      "detail": "Habertürk'ten alınan bilgiye göre motorine zam yapıldı.",
       "source": "Habertürk",
       "url": "https://www.haberturk.com/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaza zam bekleniyor.",
+      "headline": "Otogaza zam bekleniyor",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam kapıda.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
