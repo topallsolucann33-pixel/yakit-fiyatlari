@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:31:55.842Z",
+  "updatedAt": "2026-10-12T00:30:11.836Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
