@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T17:56:34.348Z",
+  "updatedAt": "2026-10-15T23:39:58.017Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim beklentisi var",
-      "detail": "4 gün önceki habere göre benzine indirim gelmesi bekleniyor. Güncel fiyat tablosu henüz açıklanmadı.",
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "4 gün önce yayınlanan habere göre benzinde indirim beklentisi bulunuyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -13,17 +13,17 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine zam beklentisi var",
-      "detail": "4 gün önceki habere göre motorine zam gelmesi bekleniyor. Güncel fiyat tablosu henüz açıklanmadı.",
+      "detail": "4 gün önce yayınlanan habere göre motorinde (mazotta) zam beklentisi bulunuyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz için güncel zam/indirim haberi yok",
-      "detail": "Metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam beklentisi oluştu.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
