@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-14T23:54:14.822Z",
+  "updatedAt": "2026-10-15T08:38:39.979Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim bekleniyor",
-      "detail": "3 gün önceki habere göre benzine indirim gelmesi bekleniyor.",
+      "headline": "Benzine indirim beklentisi var",
+      "detail": "9 Ekim 2026 tarihli habere göre, benzinde bir indirim beklentisi bulunuyor. 11 Ekim'deki güncel tablo zam veya indirim olup olmadığını sorguluyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine zam bekleniyor",
-      "detail": "3 gün önceki habere göre motorine zam gelmesi bekleniyor.",
+      "headline": "Motorine zam beklentisi var",
+      "detail": "9 Ekim 2026 tarihli habere göre, motorinde bir zam beklentisi bulunuyor. 6 Ekim'de motorine gece indirim gelmişti.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
