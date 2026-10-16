@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T08:33:23.632Z",
+  "updatedAt": "2026-10-16T17:45:16.818Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Benzinde indirim beklentisi: Tarih belli oldu",
+      "detail": "Birgün Gazetesi'ne göre benzinde indirim beklentisi bulunuyor ve indirimin tarihi belli oldu.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
