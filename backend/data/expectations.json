@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-17T23:05:25.884Z",
+  "updatedAt": "2026-10-18T17:01:06.557Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine 17 Ekim'de indirim yapıldı",
-      "detail": "17 Ekim tarihinde benzine indirim yapıldığına dair son dakika haberi bulunmaktadır. Akaryakıt tabelaları gece yarısı değişti.",
+      "headline": "Benzine 17 Ekim'de indirim geldi",
+      "detail": "Son dakika haberine göre 17 Ekim tarihinde benzine indirim yapıldı. Akaryakıt tabelaları gece yarısı değişti.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Motorine dev zam gelecek",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorin için zam veya indirim bilgisi yok",
+      "detail": "Metinde motorin (mazot) için güncel bir zam veya indirim bilgisi bulunmamaktadır. Sadece zam veya indirim olup olmadığı sorgulanmaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogaz için güncel bilgi yok",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam veya indirim bilgisi yer almamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
