@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-20T00:17:49.790Z",
+  "updatedAt": "2026-10-20T08:56:31.971Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine büyük indirim geldi, tabelalar değişti",
-      "detail": "20 Ekim 2026 tarihinde gece yarısı akaryakıt tabelaları değişerek benzine büyük bir indirim uygulandı. İndirimin miktarı metinde belirtilmemiştir.",
+      "headline": "Benzine indirim geldi",
+      "detail": "Son dakika haberine göre benzine indirim geldiği belirtiliyor. Gece yarısı akaryakıt tabelaları değişti ancak indirim miktarı metinde belirtilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
