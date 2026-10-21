@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T18:19:14.019Z",
+  "updatedAt": "2026-10-21T23:59:32.761Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
       "headline": "Benzine indirim geliyor",
-      "detail": "BirGün Gazetesi'nin 21.10.2026 tarihli haberine göre benzine indirim bekleniyor.",
+      "detail": "BirGün haberine göre, benzine indirim bekleniyor. İndirimin miktarı metinde belirtilmemiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
