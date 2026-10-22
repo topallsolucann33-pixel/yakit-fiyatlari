@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-22T08:58:39.686Z",
+  "updatedAt": "2026-10-22T18:13:13.359Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim geliyor",
-      "detail": "21 Ekim 2026 tarihinde benzine indirim geleceği belirtilmiştir.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine ikinci indirim bekleniyor",
+      "detail": "Benzin fiyatlarına ikinci bir indirim yapılacağı haberi gündemde. İndirimin miktarı henüz netleşmedi.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine dev zam gelecek",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine dev zam bekleniyor.",
+      "headline": "Motorine dev zam bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz (LPG) fiyatlarında güncel haber yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına ilişkin güncel bir zam veya indirim haberi bulunmamaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
