@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T08:27:05.231Z",
+  "updatedAt": "2026-10-24T17:06:30.715Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine ikinci indirim yolda, tabelalar güncellendi",
-      "detail": "Benzine yakın zamanda bir indirim geldi ve tabelalar güncellendi. Ayrıca benzine ikinci bir indirim daha yapılması bekleniyor.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam kapıda.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
