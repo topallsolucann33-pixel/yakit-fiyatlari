@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T19:40:03.359Z",
+  "updatedAt": "2026-10-27T00:23:26.114Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
       "headline": "Benzine eşel mobil zammı beklentisi",
-      "detail": "En güncel haberlere göre benzine eşel mobil zammı gelip gelmeyeceği ve miktarı merak ediliyor.",
+      "detail": "Son haberlere göre benzine eşel mobil zammı gelip gelmeyeceği ve miktarı merak ediliyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -13,17 +13,17 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine eşel mobil zammı beklentisi",
-      "detail": "Son haberlere göre motorine eşel mobil zammı gelip gelmeyeceği ve miktarı araştırılıyor.",
+      "detail": "Motorine eşel mobil zammı gelip gelmeyeceği ve miktarı son haberlerde sorgulanıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam beklentisi oluştu.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogazda güncel zam/indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili herhangi bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
