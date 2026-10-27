@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-27T09:23:47.728Z",
+  "updatedAt": "2026-10-27T19:06:36.416Z",
   "expectations": {
     "benzin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Benzine indirim geldi, tabelalar güncellendi",
-      "detail": "Son günlerde benzine indirim geldiği ve akaryakıt tabelalarının güncellendiği belirtiliyor. Ayrıca ikinci bir indirim beklentisi de mevcut.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine yüklü ÖTV zammı yolda",
+      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, bu durum benzini de kapsıyor.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorine yüklü ÖTV zammı bekleniyor",
+      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, motorin de bu zamdan etkilenecek.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogaza yüklü ÖTV zammı gündemde",
+      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, otogaz da bu kapsamda değerlendiriliyor.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     }
   }
 }
