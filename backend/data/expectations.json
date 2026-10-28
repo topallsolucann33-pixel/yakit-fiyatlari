@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-27T19:06:36.416Z",
+  "updatedAt": "2026-10-28T00:28:49.101Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "Benzine yüklü ÖTV zammı yolda",
-      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, bu durum benzini de kapsıyor.",
+      "headline": "Benzine yüklü ÖTV zammı",
+      "detail": "Birgün haberine göre akaryakıta yüklü bir ÖTV zammı gerçekleşti. Benzin için spesifik bir zam miktarı belirtilmemiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine yüklü ÖTV zammı bekleniyor",
-      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, motorin de bu zamdan etkilenecek.",
+      "headline": "Motorine yüklü ÖTV zammı",
+      "detail": "Birgün haberine göre akaryakıta yüklü bir ÖTV zammı gerçekleşti. Motorin için spesifik bir zam miktarı belirtilmemiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza yüklü ÖTV zammı gündemde",
-      "detail": "27 Ekim 2026 tarihli habere göre akaryakıta yüklü ÖTV zammı geleceği belirtiliyor, otogaz da bu kapsamda değerlendiriliyor.",
+      "headline": "Otogaza yüklü ÖTV zammı",
+      "detail": "Birgün haberine göre akaryakıta yüklü bir ÖTV zammı gerçekleşti. Otogaz için spesifik bir zam miktarı belirtilmemiştir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
