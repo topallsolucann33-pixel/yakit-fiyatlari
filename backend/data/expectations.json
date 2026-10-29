@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-29T10:29:36.068Z",
+  "updatedAt": "2026-10-29T19:21:13.362Z",
   "expectations": {
     "benzin": {
-      "type": "indirim",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Benzin zammı hakkında net bilgi yok",
+      "detail": "28 Ekim 2026 tarihli haberde benzin fiyatlarına zam gelip gelmeyeceği sorgulanıyor. Metinde kesinleşmiş bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor. Eşel mobil uygulamasının sona ermesi de zammı tetikleyecek.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorin zammı hakkında net bilgi yok",
+      "detail": "28 Ekim 2026 tarihli haberde motorin fiyatlarına zam gelip gelmeyeceği sorgulanıyor. Metinde kesinleşmiş bir zam veya indirim bilgisi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Otogaz fiyat bilgisi metinde yok",
+      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam, indirim veya güncel fiyat bilgisi yer almamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
