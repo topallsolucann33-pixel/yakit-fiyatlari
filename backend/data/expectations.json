@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-28T19:12:14.119Z",
+  "updatedAt": "2026-10-29T00:51:43.195Z",
   "expectations": {
     "benzin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim beklentisi oluştu.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Benzine zam gelecek mi? Güncel fiyatlar ne kadar?",
+      "detail": "8 saat önce yayınlanan bir habere göre, 28 Ekim 2026 tarihli güncel akaryakıt fiyatları bağlamında benzine zam gelip gelmeyeceği ve miktarı merak ediliyor.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam beklentisi oluştu. Eşel mobil uygulamasının sona ermesi de zam kapısını araladı.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorine zam beklentisi: Fiyatlar ne kadar olacak?",
+      "detail": "8 saat önce yayınlanan bir habere göre, 28 Ekim 2026 tarihli güncel akaryakıt fiyatları bağlamında motorine zam gelip gelmeyeceği ve miktarı merak ediliyor.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam beklentisi oluştu.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
