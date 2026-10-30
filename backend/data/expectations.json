@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-29T19:21:13.362Z",
+  "updatedAt": "2026-10-30T00:53:54.687Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
+      "type": "indirim",
       "amount": null,
-      "headline": "Benzin zammı hakkında net bilgi yok",
-      "detail": "28 Ekim 2026 tarihli haberde benzin fiyatlarına zam gelip gelmeyeceği sorgulanıyor. Metinde kesinleşmiş bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim beklentisi var.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorin zammı hakkında net bilgi yok",
-      "detail": "28 Ekim 2026 tarihli haberde motorin fiyatlarına zam gelip gelmeyeceği sorgulanıyor. Metinde kesinleşmiş bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine dev zam bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine büyük bir zam beklentisi var.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogaz fiyat bilgisi metinde yok",
-      "detail": "Sağlanan metin parçalarında otogaz (LPG) ile ilgili herhangi bir zam, indirim veya güncel fiyat bilgisi yer almamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaz fiyatlarına zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
