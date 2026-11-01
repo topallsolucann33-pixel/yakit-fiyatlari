@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-01T10:51:28.696Z",
+  "updatedAt": "2026-11-01T18:41:14.815Z",
   "expectations": {
     "benzin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Benzine ÖTV zammı geliyor, yarın pompaya yansıyacak",
-      "detail": "Akaryakıta gelecek ÖTV zammının benzine de yansıması bekleniyor. Zam yarın itibarıyla pompada geçerli olacak.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine ÖTV zammı geliyor, yarın pompaya yansıyacak",
-      "detail": "Akaryakıta gelecek ÖTV zammının motorine de yansıması bekleniyor. Zam yarın itibarıyla pompada geçerli olacak.",
+      "headline": "Motorine zam geldi: Fiyatlar tabelaya sığmadı",
+      "detail": "BirGün gazetesinin 1 Kasım 2026 tarihli haberine göre motorine zam yapıldı ve fiyatlar tabelalara sığmayacak kadar yükseldi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
-      "headline": "Otogaza ÖTV zammı geliyor, yarın pompaya yansıyacak",
-      "detail": "Akaryakıta gelecek ÖTV zammının otogaza da yansıması bekleniyor. Zam yarın itibarıyla pompada geçerli olacak.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
