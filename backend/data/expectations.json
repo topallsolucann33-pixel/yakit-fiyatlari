@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-03T02:53:25.002Z",
+  "updatedAt": "2026-11-03T11:26:11.183Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim beklentisi",
+      "headline": "Benzine indirim bekleniyor",
       "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
@@ -13,17 +13,17 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor. Brent petrol 110 dolara fırladı.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
-      "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "amount": "9 ₺",
+      "headline": "Otogaza 9 ₺ zam geldi",
+      "detail": "Bigpara haberine göre otogaza 9 ₺ zam geldiği belirtiliyor. Bu bilgi 3 Kasım 2026 tarihli haberde yer alıyor.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
