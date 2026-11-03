@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:26:11.183Z",
+  "updatedAt": "2026-11-03T20:21:27.135Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
@@ -13,15 +13,15 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor. Brent petrol 110 dolara fırladı.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
-      "amount": "9 ₺",
-      "headline": "Otogaza 9 ₺ zam geldi",
-      "detail": "Bigpara haberine göre otogaza 9 ₺ zam geldiği belirtiliyor. Bu bilgi 3 Kasım 2026 tarihli haberde yer alıyor.",
+      "amount": "9,00 ₺",
+      "headline": "Otogaza 9 lira zam geldi",
+      "detail": "Haberde LPG'ye 9 lira zam yapıldığı belirtilmektedir. Akaryakıt fiyatları 3 Kasım 2026 tarihli haberde yer alıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
