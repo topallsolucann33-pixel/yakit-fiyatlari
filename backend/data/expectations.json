@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-04T01:18:04.480Z",
+  "updatedAt": "2026-11-04T11:40:13.659Z",
   "expectations": {
     "benzin": {
-      "type": "yok",
+      "type": "indirim",
       "amount": null,
-      "headline": "Benzin fiyatlarında güncel zam/indirim haberi yok",
-      "detail": "Sağlanan metinde benzin fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorin fiyatlarında güncel zam/indirim haberi yok",
-      "detail": "Sağlanan metinde motorin fiyatlarına ilişkin herhangi bir zam veya indirim bilgisi bulunmamaktadır.",
-      "source": "Habertürk",
-      "url": "https://www.haberturk.com/ekonomi"
+      "headline": "Motorine dev zam bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine dev zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
       "amount": "9 ₺",
-      "headline": "LPG'ye 9 Lira Zam Geldi",
-      "detail": "Bigpara haberine göre, otogaz (LPG) fiyatlarına 4 Kasım tarihinde 9 lira zam yapıldığı bildirildi.",
+      "headline": "LPG'ye 4 Kasım'da 9 lira zam geldi",
+      "detail": "4 Kasım 2026 tarihinde LPG (Otogaz) fiyatlarına 9 ₺ zam yapıldığı belirtilmiştir. Güncel LPG fiyatları merak ediliyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
