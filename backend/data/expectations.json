@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-04T20:36:59.985Z",
+  "updatedAt": "2026-11-05T01:26:39.129Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
       "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim beklentisi oluştu.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam beklentisi oluştu.",
+      "headline": "Motorine dev zam gelecek",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
       "amount": "9 ₺",
-      "headline": "Otogaza 4 Kasım'da 9 lira zam geldi",
-      "detail": "4 Kasım 2026 tarihinde otogaz (LPG) fiyatlarına 9 lira zam yapıldığı bilgisi metinde yer almaktadır.",
+      "headline": "Otogaza 4 Kasım'da 9 lira zam",
+      "detail": "Bigpara haberine göre, 4 Kasım 2026 tarihinde otogaza (LPG) 9 lira zam geldiği belirtiliyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
