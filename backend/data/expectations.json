@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-06T01:30:28.417Z",
+  "updatedAt": "2026-11-06T11:39:22.434Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzin fiyatları düşüyor",
-      "detail": "Verilen metne göre benzin fiyatlarında bir düşüş yaşanmaktadır.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzin fiyatlarına indirim geldi",
+      "detail": "Habertürk'ten alınan bilgilere göre benzin fiyatlarında bir indirim gerçekleştiği belirtiliyor.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorine indirim yolda",
-      "detail": "Metin, motorin fiyatlarında da bir indirim beklentisi olduğunu belirtiyor.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorine dev zam bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
