@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-10T03:29:57.809Z",
+  "updatedAt": "2026-11-10T11:54:33.814Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim beklentisi",
+      "headline": "Benzine indirim bekleniyor",
       "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
@@ -12,8 +12,8 @@
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geldi!",
-      "detail": "1 gün önce yayınlanan habere göre motorin (mazot) fiyatlarına indirim yapıldı. İndirimin miktarı belirtilmemiştir.",
+      "headline": "Motorine indirim geldi",
+      "detail": "7 Kasım 2026 tarihinde motorin (mazot) fiyatlarına indirim yapıldığı belirtilmiştir. İndirimin miktarı hakkında bilgi verilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
