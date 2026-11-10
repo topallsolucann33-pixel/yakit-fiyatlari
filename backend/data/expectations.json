@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T23:13:49.386Z",
+  "updatedAt": "2026-11-10T03:29:57.809Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
@@ -12,8 +12,8 @@
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine indirim geldi (7 Kasım 2026)",
-      "detail": "1 gün önce yayınlanan habere göre, 7 Kasım 2026 tarihinde motorin (mazot) fiyatlarına indirim yapıldığı bildirilmiştir.",
+      "headline": "Motorine indirim geldi!",
+      "detail": "1 gün önce yayınlanan habere göre motorin (mazot) fiyatlarına indirim yapıldı. İndirimin miktarı belirtilmemiştir.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
