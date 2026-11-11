@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-11T11:30:41.460Z",
+  "updatedAt": "2026-11-11T21:00:10.543Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
-      "amount": null,
-      "headline": "Benzine gece yarısı indirim geliyor",
-      "detail": "Bigpara'nın 4 saat önceki haberine göre benzine gece yarısı indirim uygulanacak.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "amount": "3,54 ₺",
+      "headline": "Benzine 3,54 ₺ indirim geliyor",
+      "detail": "Son haberlere göre benzine 3 lira 54 kuruşluk bir indirim bekleniyor. Akaryakıt fiyatlarında genel bir düşüş gündemde.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorinde indirim beklentisi",
+      "detail": "Benzinle birlikte motorin fiyatlarında da bir düşüş bekleniyor. Akaryakıt piyasasında indirimler gündemde.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
