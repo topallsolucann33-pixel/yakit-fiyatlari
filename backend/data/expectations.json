@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-12T02:14:01.447Z",
+  "updatedAt": "2026-11-12T11:56:50.312Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim geldi son dakika",
-      "detail": "Akaryakıt tabelaları değişti, benzin fiyatlarında indirim yaşandı. Güncel fiyatlar 12 Kasım 2026 itibarıyla belirlendi.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Benzine indirim geldi",
+      "detail": "Benzin fiyatlarında bir indirim gerçekleştiği belirtiliyor.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorinde zam veya indirim haberi yok",
-      "detail": "Metinde motorin fiyatlarına ilişkin kesinleşmiş bir zam veya indirim bilgisi bulunmamaktadır, sadece sorular yer almaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine dev zam bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine büyük bir zam geleceği öngörülüyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "yok",
+      "type": "zam",
       "amount": null,
-      "headline": "Otogazda zam veya indirim haberi yok",
-      "detail": "Metinde otogaz (LPG) fiyatlarına ilişkin herhangi bir bilgi bulunmamaktadır.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Otogaza zam kapıda",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam gelmesi bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     }
   }
 }
