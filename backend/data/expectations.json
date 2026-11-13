@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-13T11:39:38.808Z",
+  "updatedAt": "2026-11-13T20:42:20.294Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim geldi, fiyatlar pompaya yansıdı",
-      "detail": "Benzin fiyatlarında indirim gerçekleşti ve bu indirim doğrudan pompa fiyatlarına yansıdı.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine indirim geldi, tabelalar değişti",
+      "detail": "12 Kasım 2026 tarihinde benzine indirim yapıldığı ve akaryakıt tabelalarının değiştiği bildirildi.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine büyük bir zam beklentisi var.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Motorine indirim beklentisi",
+      "detail": "13 Kasım 2026 tarihi itibarıyla motorine indirim beklentisi olduğu belirtildi.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam gelmesi bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam beklentisi oluştu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
