@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-12T21:15:32.723Z",
+  "updatedAt": "2026-11-13T01:47:44.390Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
-      "amount": null,
-      "headline": "Benzine indirim geldi, fiyatlar pompaya yansıdı",
-      "detail": "12 Kasım 2026 tarihinde benzin fiyatlarında indirim gerçekleşti ve bu indirim pompaya yansıdı.",
+      "amount": "3,54 ₺",
+      "headline": "Benzine 3,54 ₺ indirim pompaya yansıdı",
+      "detail": "Benzine 3 lira 54 kuruşluk bir indirim gerçekleşti ve fiyatlar pompaya yansıdı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorinde düşüş bekleniyor",
-      "detail": "11 Kasım 2026 tarihli habere göre motorin fiyatlarında bir düşüş yaşanması bekleniyor.",
+      "headline": "Motorinde düşüş beklentisi",
+      "detail": "Motorin fiyatlarında düşüş beklentisi olduğu belirtildi, ancak miktarı açıklanmadı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam geleceği belirtiliyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
