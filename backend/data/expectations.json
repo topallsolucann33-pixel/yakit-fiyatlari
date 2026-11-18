@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:57:44.015Z",
+  "updatedAt": "2026-11-18T02:51:57.334Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
@@ -13,7 +13,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine dev zam bekleniyor.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
