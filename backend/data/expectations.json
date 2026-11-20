@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-19T21:56:06.679Z",
+  "updatedAt": "2026-11-20T02:16:00.955Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
       "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim beklentisi oluştu.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzinde indirim beklentisi oluştu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
@@ -13,7 +13,7 @@
       "type": "indirim",
       "amount": null,
       "headline": "Motorin fiyatlarında indirim beklentisi",
-      "detail": "Motorin fiyatlarında bir indirim beklentisi olduğu belirtiliyor. Gözler cuma gününe çevrilmiş durumda.",
+      "detail": "Motorin fiyatlarında cuma günü indirim beklentisi olduğu belirtiliyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam beklentisi oluştu.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle otogazda zam beklentisi oluştu.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
