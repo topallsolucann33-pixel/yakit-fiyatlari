@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-21T02:09:54.701Z",
+  "updatedAt": "2026-11-21T11:51:57.340Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzinde indirim beklentisi sürüyor",
-      "detail": "Akaryakıtta genel düşüş eğilimi devam ederken, benzinde de bir indirim beklentisi oluştu.",
+      "headline": "Benzine gece yarısı indirimi",
+      "detail": "21 Kasım 2026 tarihinde benzine gece yarısı indirimi yapıldı ve litre fiyatı 70 liranın altına geriledi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine gece yarısı indirimi yapıldı",
-      "detail": "Akaryakıt fiyatlarında yaşanan düşüşle birlikte motorine gece yarısından itibaren indirim uygulandı.",
+      "headline": "Motorine gece yarısı indirimi",
+      "detail": "20 Kasım 2026 tarihinde akaryakıtta tabela değişti ve motorin fiyatlarına gece yarısı indirim uygulandı.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
