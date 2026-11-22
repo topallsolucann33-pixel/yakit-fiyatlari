@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-21T20:19:07.485Z",
+  "updatedAt": "2026-11-22T01:13:18.149Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine gece yarısı indirimi",
-      "detail": "21 Kasım 2026 tarihinde gece yarısı yapılan indirimle benzin litre fiyatı 70 liranın altına geriledi.",
+      "headline": "Benzine gece yarısı indirimi, fiyat 70 liranın altına geriledi",
+      "detail": "21 Kasım 2026 tarihinde benzine gece yarısı indirimi yapıldı ve litre fiyatı 70 liranın altına geriledi.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine gece yarısı indirimi",
-      "detail": "20 Kasım 2026 tarihinde motorine gece yarısı indirimi yapıldı.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Motorine (mazota) dev indirim geldi",
+      "detail": "20 Kasım 2026 tarihinde motorine büyük bir indirim yapıldığı ve gece yarısı tabelaların değiştiği belirtilmiştir.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
     "otogaz": {
       "type": "zam",
