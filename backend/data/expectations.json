@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-22T01:13:18.149Z",
+  "updatedAt": "2026-11-22T12:03:46.978Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine gece yarısı indirimi, fiyat 70 liranın altına geriledi",
-      "detail": "21 Kasım 2026 tarihinde benzine gece yarısı indirimi yapıldı ve litre fiyatı 70 liranın altına geriledi.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine indirim geldi",
+      "detail": "Habertürk'ten alınan metne göre benzine indirim yapıldığı belirtilmiştir.",
+      "source": "Habertürk",
+      "url": "https://www.haberturk.com/ekonomi"
     },
     "motorin": {
-      "type": "indirim",
+      "type": "zam",
       "amount": null,
-      "headline": "Motorine (mazota) dev indirim geldi",
-      "detail": "20 Kasım 2026 tarihinde motorine büyük bir indirim yapıldığı ve gece yarısı tabelaların değiştiği belirtilmiştir.",
-      "source": "Bigpara (Hürriyet)",
-      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
+      "headline": "Motorine dev zam yolda",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine dev zam bekleniyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam bekleniyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
