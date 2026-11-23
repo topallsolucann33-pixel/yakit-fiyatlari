@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:37:17.045Z",
+  "updatedAt": "2026-11-23T13:45:55.380Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
@@ -12,8 +12,8 @@
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Motorine dev indirim bekleniyor",
-      "detail": "20 Kasım 2026 tarihli habere göre motorin (mazot) fiyatlarında büyük bir indirim beklentisi bulunmaktadır.",
+      "headline": "Motorine dev indirim yapıldı",
+      "detail": "2 gün önce motorine (mazota) büyük bir indirim yapıldığı bildirildi. Yeni hafta için ek bir değişiklik olup olmadığı ise sorgulanıyor.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     },
@@ -21,7 +21,7 @@
       "type": "zam",
       "amount": null,
       "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim'de sona ermesiyle birlikte otogaza zam geleceği belirtiliyor.",
+      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     }
