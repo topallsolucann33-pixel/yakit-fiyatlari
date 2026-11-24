@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-24T05:17:35.500Z",
+  "updatedAt": "2026-11-24T14:21:51.442Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine gece yarısı indirimi",
-      "detail": "Benzin fiyatı gece yarısı yapılan indirimle birlikte litre başına 70 liranın altına düştü.",
-      "source": "Birgün",
-      "url": "https://www.birgun.net/ekonomi"
+      "headline": "Benzine indirim bekleniyor",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor. Ancak genel akaryakıt fiyatlarında Özel Tüketim Vergisi güncellemesiyle zam da öngörülüyor.",
+      "source": "NationalTurk",
+      "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "zam",
       "amount": null,
       "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine dev zam bekleniyor.",
+      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine büyük bir zam bekleniyor. Ayrıca genel akaryakıt fiyatlarında ÖTV güncellemesiyle zam öngörülüyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
-      "type": "zam",
+      "type": "yok",
       "amount": null,
-      "headline": "Otogaza zam kapıda",
-      "detail": "Eşel mobil uygulamasının 1 Ekim’de sona ermesiyle birlikte otogaza zam bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Güncel zam/indirim bilgisi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatları ile ilgili güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
+      "source": "Bigpara (Hürriyet)",
+      "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
   }
 }
