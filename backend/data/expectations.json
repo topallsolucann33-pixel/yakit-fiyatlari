@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-24T14:21:51.442Z",
+  "updatedAt": "2026-11-24T23:19:59.193Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Benzine indirim bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor. Ancak genel akaryakıt fiyatlarında Özel Tüketim Vergisi güncellemesiyle zam da öngörülüyor.",
+      "headline": "Akaryakıta önce indirim, sonra ÖTV zammı",
+      "detail": "Akaryakıt fiyatlarında sürücüleri önce indirim, ardından Özel Tüketim Vergisi güncellemesiyle zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "Motorine dev zam bekleniyor",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle motorine büyük bir zam bekleniyor. Ayrıca genel akaryakıt fiyatlarında ÖTV güncellemesiyle zam öngörülüyor.",
+      "headline": "Akaryakıta önce indirim, sonra ÖTV zammı",
+      "detail": "Akaryakıt fiyatlarında sürücüleri önce indirim, ardından Özel Tüketim Vergisi güncellemesiyle zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Güncel zam/indirim bilgisi yok",
-      "detail": "Sağlanan metinde otogaz (LPG) fiyatları ile ilgili güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
+      "headline": "Otogaz (LPG) ile ilgili haber yok",
+      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatları ile ilgili herhangi bir güncel bilgi bulunmamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
