@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-24T23:19:59.193Z",
+  "updatedAt": "2026-11-25T04:08:17.854Z",
   "expectations": {
     "benzin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Akaryakıta önce indirim, sonra ÖTV zammı",
-      "detail": "Akaryakıt fiyatlarında sürücüleri önce indirim, ardından Özel Tüketim Vergisi güncellemesiyle zam bekleniyor.",
+      "headline": "Benzine önce indirim, sonra ÖTV zammı",
+      "detail": "24 Kasım 2026 tarihli habere göre, benzin fiyatlarında önce indirim, ardından Özel Tüketim Vergisi (ÖTV) güncellemesiyle zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
-      "headline": "Akaryakıta önce indirim, sonra ÖTV zammı",
-      "detail": "Akaryakıt fiyatlarında sürücüleri önce indirim, ardından Özel Tüketim Vergisi güncellemesiyle zam bekleniyor.",
+      "headline": "Motorine önce indirim, sonra ÖTV zammı",
+      "detail": "24 Kasım 2026 tarihli habere göre, motorin fiyatlarında önce indirim, ardından Özel Tüketim Vergisi (ÖTV) güncellemesiyle zam bekleniyor.",
       "source": "NationalTurk",
       "url": "https://www.nationalturk.com/ekonomi/"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "Otogaz (LPG) ile ilgili haber yok",
-      "detail": "Sağlanan metinlerde otogaz (LPG) fiyatları ile ilgili herhangi bir güncel bilgi bulunmamaktadır.",
+      "headline": "Otogaz hakkında bilgi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) fiyatlarına dair herhangi bir bilgi veya beklenti yer almamaktadır.",
       "source": "Bigpara (Hürriyet)",
       "url": "https://bigpara.hurriyet.com.tr/ekonomi-haberleri/"
     }
