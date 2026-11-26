@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-25T22:52:47.463Z",
+  "updatedAt": "2026-11-26T03:30:39.588Z",
   "expectations": {
     "benzin": {
-      "type": "indirim",
+      "type": "yok",
       "amount": null,
-      "headline": "Benzine indirim beklentisi var",
-      "detail": "Petrol fiyatları, döviz kuru ve vergi düzenlemelerinin etkisiyle benzine indirim bekleniyor.",
-      "source": "NationalTurk",
-      "url": "https://www.nationalturk.com/ekonomi/"
+      "headline": "Benzin fiyatlarında güncel haber yok",
+      "detail": "Sağlanan metinde benzin fiyatlarına ilişkin herhangi bir zam veya indirim haberi bulunmamaktadır.",
+      "source": "Birgün",
+      "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
       "type": "indirim",
       "amount": null,
       "headline": "Motorine indirim geliyor",
-      "detail": "Birgün haberine göre, 25.11.2026 tarihli bilgiye göre motorin fiyatlarında bir indirim bekleniyor veya gerçekleşiyor.",
+      "detail": "25 Kasım 2026 tarihli habere göre motorin fiyatlarında bir indirim beklenmektedir.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
