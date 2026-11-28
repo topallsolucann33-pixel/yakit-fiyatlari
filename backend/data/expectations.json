@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-11-27T22:26:16.658Z",
+  "updatedAt": "2026-11-28T03:15:51.353Z",
   "expectations": {
     "benzin": {
       "type": "zam",
       "amount": null,
-      "headline": "1 Aralık'ta benzine rekor zam bekleniyor",
-      "detail": "1 Aralık tarihinde akaryakıt fiyatlarına gelmesi beklenen rekor zamdan benzin de etkilenecek.",
+      "headline": "Benzine 1 Aralık'ta rekor zam bekleniyor",
+      "detail": "1 Aralık tarihinde genel akaryakıt zammı beklentisi kapsamında benzine de rekor bir zam gelmesi öngörülüyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "motorin": {
-      "type": "zam",
+      "type": "indirim",
       "amount": null,
-      "headline": "1 Aralık'ta motorine rekor zam bekleniyor",
-      "detail": "26 Kasım'da indirim gelmesine rağmen, 1 Aralık tarihinde akaryakıt fiyatlarına rekor bir zam gelmesi bekleniyor.",
+      "headline": "Motorine indirim geldi, yeni fiyatlar belli oldu",
+      "detail": "26 Kasım'da motorine indirim yapıldı ve yeni fiyatlar belirlendi; ancak 1 Aralık'ta genel akaryakıt zammı bekleniyor.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     },
     "otogaz": {
       "type": "yok",
       "amount": null,
-      "headline": "",
-      "detail": "",
+      "headline": "Otogazda güncel zam veya indirim haberi yok",
+      "detail": "Sağlanan metinde otogaz (LPG) ile ilgili güncel bir zam veya indirim beklentisi/haberi bulunmamaktadır.",
       "source": "Birgün",
       "url": "https://www.birgun.net/ekonomi"
     }
